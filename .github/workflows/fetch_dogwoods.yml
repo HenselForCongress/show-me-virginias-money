@@ -1,0 +1,48 @@
+# .github/workflows/fetch_dogwoods.yml
+name: Fetch Dogwoods
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: 🔍 those 🌐 🔗
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Rust
+      uses: dtolnay/rust-toolchain@v1
+      with:
+        toolchain: stable
+
+    - name: Build and run
+      run: cargo run
+
+    - name: Verify Changed files
+      id: verify-changed-files
+      uses: tj-actions/verify-changed-files@v20
+      with:
+        files: |
+          reports/**
+
+
+    - name: Commit and Push Changes
+      if: steps.verify-changed-files.outputs.files_changed == 'true'
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Updated Link Test Results
+        branch: main
+        file_pattern: |
+          reports/**
+      env:
+        GIT_USER_NAME: ${{ secrets.ACTIONS_USERNAME }}
+        GIT_USER_EMAIL: ${{ secrets.ACTIONS_EMAIL }}
+        GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
