@@ -1,0 +1,16 @@
+[package]
+name = "show-me-virginias-money"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+regex = "1"
+reqwest = { version = "0.11", features = ["json", "cookies"] }
+tokio = { version = "1", features = ["full"] }
+log = "0.4"
+env_logger = "0.9"
+chrono = "0.4.38"
+headless_chrome = "1.0.12"
+serde_json = "1.0.121"
+cookie_store = "0.21.0"
+url = "2.5.2"
