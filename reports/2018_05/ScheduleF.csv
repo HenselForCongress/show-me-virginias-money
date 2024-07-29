@@ -1,0 +1,7 @@
+"ScheduleFId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","PurposeOfObligation","ScheduleId","ReportUID"
+"104045","138652","467580","Stephen","Chastain","Poulson","","","315 Sherwood Ave.","","Staunton","VA","24401","True","2018-03-05 00:00:00","975.00","","","{69E76270-20E8-818E-1E9F-7E8E873D157C}"
+"104383","138917","386155","Joe","","Harris","","Jr","206 James Avenue","","Waynesboro","VA","22980","True","2017-04-28 00:00:00","368.55","","","{D6252234-C853-5BF3-724D-7819E23D013C}"
+"104384","138917","386155","Joe","","Harris","","Jr","206 James Avenue","","Waynesboro","VA","22980","True","2017-07-06 00:00:00","271.00","","","{D6252234-C853-5BF3-724D-7819E23D013C}"
+"104385","138917","386155","Joe","","Harris","","Jr","206 James Avenue","","Waynesboro","VA","22980","True","2017-08-22 00:00:00","135.30","","","{D6252234-C853-5BF3-724D-7819E23D013C}"
+"104386","138917","386155","Joe","","Harris","","Jr","206 James Avenue","","Waynesboro","VA","22980","True","2017-08-24 00:00:00","10.00","","","{D6252234-C853-5BF3-724D-7819E23D013C}"
+"104387","138917","386155","Joe","","Harris","","Jr","206 James Avenue","","Waynesboro","VA","22980","True","2017-12-29 00:00:00","25.89","","","{D6252234-C853-5BF3-724D-7819E23D013C}"

@@ -1,0 +1,2 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"102593","","808","24447","John","","Wright","Mr.","III","4305 Lydias Drive","","Williamsburg","VA","23188","True","11/14/2016","643.91","John Wright III","Payout Surplus Funds to Close Campaign Reporting","{70490CF6-8307-9B5D-AF56-BDF653184B61}"

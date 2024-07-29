@@ -1,0 +1,2 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"300247","","2833","941879","Donna","Biggs","Sayegh","Ms.","","3104 Garland Drive","","Portsmouth","VA","23703","True","10/30/2022","242.80","Donna B. Sayegh","Repay loan","{87FE3512-D19C-46A9-73CF-DFCE99C10AF8}"

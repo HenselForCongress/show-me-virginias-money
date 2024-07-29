@@ -1,0 +1,2 @@
+"ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"2164","19431","Corey","","Stewart","","","4491 Cheshire Station Plaza","","Woodbridge","VA","22193","True","03/05/2012","100.00","744","Returned Check","","{63588923-EBC3-719D-781F-E3BD296ECB09}"

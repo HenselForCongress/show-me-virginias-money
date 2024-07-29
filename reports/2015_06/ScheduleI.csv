@@ -1,0 +1,4 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"57552","","459","227844","Michael","","Messier","","","5149 Faldo drive","","Haymarket","VA","20169","True","04/29/2015","3846.93","Michael Messier","Refund/repay of loan","{A65DE14F-1386-3056-790A-65B509985554}"
+"60517","","559","238306","","","Joseph E. Preston For Senate","","","P.O. Box 82","","Petersburg","VA","23803","False","04/15/2015","767.86","Joseph E. Preston","Campaign Committee Donation","{CFB4754A-ED67-4CCE-03E5-1C7F0A206452}"
+"61344","","561","240008","","","Virginia Counselors Association Foundation","","","PO Box 721","","Monroe","VA","24574","False","06/08/2015","5334.15","Susan Zuckernick","Contribution to the Foundation","{6EEEE9DD-232A-9397-16FA-96868422035C}"

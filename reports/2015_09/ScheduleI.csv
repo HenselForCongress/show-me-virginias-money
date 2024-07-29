@@ -1,0 +1,4 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"68031","","607","216479","","","Move Ahead PAC","","","5005 Amberwood Drive","","Glen Allen","VA","23059","False","08/28/2015","20.72","Bill Janis","Donation","{CE770289-9614-2D00-FF21-2130FA56537D}"
+"68031","","608","258654","","","Move Ahead PAC","","","5005 Amberwood Drive","","Glen Allen","VA","23059","False","08/20/2015","5090.51","Bill Janis","Donation","{CE770289-9614-2D00-FF21-2130FA56537D}"
+"70342","","613","206639","William","Carl","Colgate","Mr.","","11819 N Briar Patch Dr","","Midlothian","VA","23113","True","09/14/2015","10.00","Bill Colgate","REFUND CONTRIBUTION","{F36BC428-9FA5-CDDD-8529-BAF3B1DE8424}"

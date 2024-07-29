@@ -1,0 +1,3 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"2637","","5","22406","","","Franklin City Education Foundation, Inc.","","","P. O. Box 96","","Franklin","VA","23851","False","05/23/2012","200.00","Sion Carr","Donation for Robotics","{5BFF86F1-2021-3687-3053-3978D8A2C0B6}"
+"2637","","6","22407","","","United Way","","","116 N. Main Street","","Franklin","VA","23851","False","05/24/2012","535.92","Sion Carr","Donation","{5BFF86F1-2021-3687-3053-3978D8A2C0B6}"

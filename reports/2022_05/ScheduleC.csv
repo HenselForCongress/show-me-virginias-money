@@ -1,0 +1,4 @@
+"ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"284597","589475","","","Arlington Community Federal Credit Union","","","PO Box 40070","","Arlington","VA","22204-1328","False","01/31/2021",".07","64212","Deposit Dividend","","{7E900A8A-9CA2-ABF7-755B-0B34CD156C20}"
+"284597","589475","","","Arlington Community Federal Credit Union","","","PO Box 40070","","Arlington","VA","22204-1328","False","02/28/2021",".06","64213","Deposit Dividend","","{7E900A8A-9CA2-ABF7-755B-0B34CD156C20}"
+"284597","589475","","","Arlington Community Federal Credit Union","","","PO Box 40070","","Arlington","VA","22204-1328","False","03/31/2021",".07","64214","Deposit Dividend","","{7E900A8A-9CA2-ABF7-755B-0B34CD156C20}"

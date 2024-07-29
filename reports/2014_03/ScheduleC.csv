@@ -1,0 +1,7 @@
+"ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"37564","93992","Audrey","","Clement","","","5709 10th Road North","#A","Arlington","VA","22205","True","01/08/2014","20.44","13047","Reimbursement for miscellaneous expenses","","{342F276F-7AC3-D9A2-420A-9952F0D9FC88}"
+"37719","","","","Dominion Payroll Services","","","306 East Main Street","","Richmond","VA","23219","False","01/22/2014","95.95","13061","Payroll tax adjustment","","{876984E6-A57C-29CC-01F1-D8046DDAFB00}"
+"37719","","","","The Jefferson Hotel","","","101 West Franklin Street","","Richmond","VA","23220","False","01/31/2014","15224.63","13062","Returned security deposit","","{876984E6-A57C-29CC-01F1-D8046DDAFB00}"
+"37719","","","","Dominion Payroll Services","","","306 East Main Street","","Richmond","VA","23219","False","02/25/2014","33.07","13063","Payroll tax adjustment","","{876984E6-A57C-29CC-01F1-D8046DDAFB00}"
+"37791","","","","Glass with a Twist","","","860 Maestro Dr","Ste A","Reno","NV","89511-2296","False","01/03/2014","256.40","13088","Refund of Overcharge","","{3A59199B-4F7F-DF6D-D3BE-72A81214EE04}"
+"37791","","","","The Container Store","","","500 Freeport Pkwy","","Coppell","TX","75019-7420","False","01/15/2014","223.31","13089","Refund - Returned Merchandise","","{3A59199B-4F7F-DF6D-D3BE-72A81214EE04}"

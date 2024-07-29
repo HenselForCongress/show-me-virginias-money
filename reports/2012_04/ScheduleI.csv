@@ -1,0 +1,3 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"1232","","3","13733","Fred","","Malvin","Mr.","","21 Yeardley's Grant","","Williamsburg","VA","23185","True","02/29/2012","1000.00","Christina M. Carroll","Returned campaign contribution in full","{6DE1C9C7-6848-57BD-D5D4-203DE678948D}"
+"1232","","4","13735","Sally","","Nunn","Ms.","","5128 Faldo Drive","","Haymarket","VA","20169","True","02/29/2012","200.00","Christina M. Carroll","Returned campaign contribution in full","{6DE1C9C7-6848-57BD-D5D4-203DE678948D}"

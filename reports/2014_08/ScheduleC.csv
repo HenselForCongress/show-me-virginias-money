@@ -1,0 +1,7 @@
+"ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"44739","174182","","","United Bank","","","14426 Albemarle Point Pl","100","Chantilly","VA","20151-1678","False","04/30/2014","4.14","15345","Interest earned on account","","{1F956A66-9E5E-697A-DB5B-7BBC2BEFAC82}"
+"44739","174182","","","United Bank","","","14426 Albemarle Point Pl","100","Chantilly","VA","20151-1678","False","05/31/2014","4.28","15346","Interest earned on account","","{1F956A66-9E5E-697A-DB5B-7BBC2BEFAC82}"
+"44739","174182","","","United Bank","","","14426 Albemarle Point Pl","100","Chantilly","VA","20151-1678","False","06/30/2014","4.15","15347","Interest earned on account","","{1F956A66-9E5E-697A-DB5B-7BBC2BEFAC82}"
+"44982","188362","","","Expensify, Inc.","","","88 Kearney St","Ste 1600","San Francisco","CA","94104","False","07/25/2014",".61","15358","Validation Transaction","","{07A3DC5B-2B25-5D10-9B86-B13F1B4FA207}"
+"44982","188362","","","Expensify, Inc.","","","88 Kearney St","Ste 1600","San Francisco","CA","94104","False","07/25/2014",".66","15359","Validation Transaction","","{07A3DC5B-2B25-5D10-9B86-B13F1B4FA207}"
+"45208","188054","","","The Olde Farm","","","16639 Old Jonesboro Road","","Bristol","VA","24202","False","08/18/2014","702.82","15386","Refund of overpayment","","{B244628B-7574-A590-728C-1BB252053CB4}"

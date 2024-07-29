@@ -1,0 +1,3 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"93422","","782","314924","Marguerite","","Young","Mrs","","323 Cannon Circle","","Fredericksburg","VA","22401","True","06/07/2016","70.68","Florence G Bailey","Payment of Surplus returned to contributor","{2861E406-4DF9-619E-A006-C4EFBDF031F2}"
+"94232","","783","","","","Beacon of Hope","","","PO Box 1261","","Lynchburg","VA","24505-1261","False","06/29/2016","2342.03","Julie Doyle","Donation to Beacon of Hope","{C9C19DD5-A064-06CB-86BE-6A2A6EC2DBCA}"

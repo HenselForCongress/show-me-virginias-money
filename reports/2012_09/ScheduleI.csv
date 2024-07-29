@@ -1,0 +1,2 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"7076","","123","47416","Patrick Salyer","","for Delegate","","","P.O. Box 65176","","Virginia Beach","VA","23467-5176","True","08/31/2012","6.49","Patrick Salyer","Surplus transferred to Patrick Salyer for Delegate.","{3812FE78-D965-8962-99AA-382E143B7278}"

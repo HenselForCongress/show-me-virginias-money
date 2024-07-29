@@ -1,0 +1,8 @@
+"ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"222661","697145","","","Towne Bank","","","200 High Street","Suite 100","Portsmouth","VA","23704","False","10/30/2020",".53","53415","Interest","","{9D677BE6-0FB2-1C10-97BF-3CAD7FE20B04}"
+"223725","105333","","","Wells Fargo Bank","","","P.O. Box 6995","","Portland Oregon","VA","97228","False","10/30/2020",".02","54434","interest","","{2A7697CA-8774-A582-111B-71DCDEE02D04}"
+"223730","734479","","","Arlington Community Federal Credit Union","","","2130 N. Glebe Rd","","Arlington","VA","22207","False","10/31/2020",".20","54435","Interest","","{2C01B9D2-F158-294E-F83C-2FB56072E69D}"
+"223738","698059","","","ATLANTIC UNION BANK","","","4108 PORTSMOUTH BOULEVARD","","CHESAPEAKE","VA","23321","False","10/30/2020",".05","54436","INTEREST","","{825BBFEC-2CD1-B4B9-5A7A-438A0DD586DC}"
+"223739","698060","","","ATLANTIC UNION BANK","","","4108 PORTSMOUTH BOULEVARD","","CHESAPEAKE","VA","23321","False","10/30/2020",".03","54437","INTEREST","","{DCBA697D-BA80-803E-F6A4-78085359ABA4}"
+"223806","700965","","","Towne Bank","","","PO Box 2818","","Norfolk","VA","23501-2818","False","10/30/2020",".09","54441","Interest","","{225FBE3A-61E3-854E-3BD1-9733453C69D8}"
+"223817","686880","","","Bank of the James","","","828 Main Str","","Lynchburg","VA","24504","False","11/10/2020",".79","54443","Interest","","{5D3A8F2C-7B8B-730A-3A0C-0614BEE3B692}"

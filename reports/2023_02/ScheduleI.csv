@@ -1,0 +1,4 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"312232","","2933","970032","","","Friends of Rachna Sizemore Heizer 2023","","","PO Box 1823","","Springfield","VA","22151","False","01/31/2022","10034.91","James Heizer","Distribution of excess funds to 
+Friends of Rachna Sizemore Heizer 2023","{0C233A5D-0AE9-C247-333C-F6EFC07FF913}"
+"312255","","2934","970350","","","Friends of Shyamali Roy Hauth","","","11160-C1 South Lakes Dr.","#249","Reston","VA","20191","False","02/21/2023","395.30","Shyamali Hauth","Final surplus distribution","{EF74FEC6-FDCE-966A-A9D9-D0F4B4AE81AB}"

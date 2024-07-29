@@ -1,0 +1,17 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"94440","","784","301330","","","I C. Norcom High School Alumni Association, Inc.","","","P.O.Box 3323","","Portmsouth","VA","23701","False","08/04/2015","1840.94","Lynn Briley","closed out bank account and donated funds to I C Norcom Alumni Association Scholarship Fund","{7C3B7766-A13D-F999-C329-6686C9C21A09}"
+"95407","","786","319255","bill","","stanley","mr","","Booker T washington hwy","","hardy","VA","24101","True","07/08/2016","15.58","greg kitchens","political contribution","{C1B64F6A-93C9-FDEC-939E-D2F2EC3F3050}"
+"95681","","787","319741","","","Middleburg Human Foundation","","","4094 Whiting Road","","Marshall","VA","20115","False","06/29/2016","36.60","Heidi H. Van Voorhis","Surplus funds -donated to MHF","{EECEE15D-B9FC-05BB-6BFD-A44B113B3930}"
+"96238","","788","293567","Pamela","","Loring","","","579 Bay Pointe Drive","","Montross","VA","22520","True","12/31/2015","414.16","Pamela Loring","Refund excess funding/close account","{FF1CBDCF-7E89-B063-0942-5E4C12EE68BE}"
+"96659","","789","316350","","","Virginia Democratic Party","","","919 East Main Street","Suite 2050","Richmond","VA","23219","False","07/14/2016","3360.43","WF Neely","Donation of campaign balance to Virginia Democratic Party","{FEF49116-ADC4-26F9-1834-2081C08FB998}"
+"96916","","790","284970","Samuel","","Mabry","","","312 East Braod Street","","Falls Church","VA","22046","True","11/30/2015","1472.30","Samuel A. Mabry","refund contribution","{6ABAF5DE-4681-6DCF-4183-01CC30588F1E}"
+"97199","","791","300756","","","Virginia Credit Union","","","P O Box 90010","","Richmond","VA","23225","False","06/30/2016","40.00","Sue Nash Jones","Campaign items","{8E29C3D6-2C93-5724-35EF-B1002DFB0E8C}"
+"97600","","792","194896","Ashley","","McLeod","","","5508 Del Park Avenue","","Virginia Beach","VA","23455","True","06/30/2016","4.11","Ashley McLeod","surplus/reimbursing","{8603AE1E-6AB7-8AEB-691D-D49BBAEC2DFB}"
+"97779","","794","322762","","","Elect Joe Morrissey","","","P. O. Box 2911","","Richmond","VA","23228","False","04/06/2016","8610.72","morrissey","Surplus at time of account closure","{D069FDB3-7E67-C328-F5F3-23DB1EA53129}"
+"97899","","797","185566","Ralph","K.","Smith","","","P.O. Box 91","","Roanoke","VA","24002","True","06/30/2016","8119.91","Ralph Smith","Partial refund of $100,000+ self contributions","{17D139A7-8EA7-EE3E-8171-89F644ED0366}"
+"97910","","798","322948","","","Elect Joe Morrissey","","","P. O. Box 2911","","Richmond","VA","23228","False","04/06/2016","8094.76","Morrissey","Close PAC-13-00261 with surplus going to 
+CC-16-00229 "Elect Joe Morrissey","{519E8145-C87C-62D1-EEC0-06B8585448E1}"
+"97930","","801","322762","","","Elect Joe Morrissey","","","P. O. Box 2911","","Richmond","VA","23228","False","04/06/2016","18840.21","Morrissey","Close "Friends of Joe Morrissey" CC-12-01235 and
+send surplus to "Elect Joe Morrissey" CC-16-00229","{CB38C2F7-9821-94A8-6A6E-033993FAE67D}"
+"97930","","802","322762","","","Elect Joe Morrissey","","","P. O. Box 2911","","Richmond","VA","23228","False","06/28/2016","8610.72","Morrissey","Close # CC-12-01235 with surplus transferred to
+"Elect Joe Morrissey #CC-16-00229","{CB38C2F7-9821-94A8-6A6E-033993FAE67D}"

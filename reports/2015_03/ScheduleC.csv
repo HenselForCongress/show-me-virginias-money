@@ -1,0 +1,8 @@
+"ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"52700","194362","","","Chesterfield County Democratic Committee","","","1401 Huguenot Rd.","Suite 210","Midlothian","VA","23113","False","12/15/2014","500.00","18149","Refund campaign to cover election costs","","{4F4D7E20-5B9C-18B1-AE43-B014A3225D5E}"
+"52753","45638","","","BB&T","","","5236 Monticello Avenue","","Williamsburg","VA","23188","False","11/09/2013",".08","18157","Bank Adjustment","","{E6282477-6332-2DF9-1840-9053E29516AA}"
+"52753","122165","","","IMGE LLC","","","603 King Street","4th Floor","Alexandria","VA","22314","False","11/13/2013","811.37","18158","Refund","","{E6282477-6332-2DF9-1840-9053E29516AA}"
+"52756","83216","","","College Republican Federation of Virginia","","","2021 Ivy Road","Apt D-1","Charlottesville","VA","22903","False","02/04/2014","821.59","18159","Returned Check","","{E2593FB6-EA24-7A6A-7575-B246D112C38F}"
+"52757","134042","Nick","","Hoffman","","","13615 Independence Ridge Place","","Nokesville","VA","20181","True","07/24/2014","980.00","18160","Check #1497 from 11/4/13 was lost and being reissued","","{0868D557-118D-BD93-45CC-2F1AC3F91D93}"
+"53144","204509","Lillian","","Thompson","","","301 King Street","","Alexandria","VA","22314","True","12/15/2014","36.00","18226","Return","","{3EB9D54C-39FF-5F2B-55E8-02E53FCCD1A9}"
+"53278","168916","Audrey","R.","Clement","","","5709 10th Road North","#A","Arlington","VA","22205","True","01/24/2015","71.09","18255","Reimbursement","","{62D27535-73E7-2FDB-91B8-926891BDC2ED}"

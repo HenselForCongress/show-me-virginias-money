@@ -1,0 +1,8 @@
+"ScheduleFId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","PurposeOfObligation","ScheduleId","ReportUID"
+"2935","6776","44768","","","Executive Press, Inc.","","","10412 Main St","","Fairfax","VA","22030","False","2012-05-25 00:00:00","53.55","850 copies of Convention Rules for district convention; Invoice # 25604","","{C75746B1-047F-990B-C928-8280E8C975D3}"
+"2938","6794","16647","Paul","","Handly","","","210 N Van Buren St","","Falls Church","VA","22046","True","2012-04-17 00:00:00","800.00","second installment of sign purchase","","{3B630F83-979A-C25E-04FE-505926BE481F}"
+"2939","6795","16647","Paul","","Handly","","","210 N Van Buren St","","Falls Church","VA","22046","True","2012-04-17 00:00:00","800.00","second installment of sign purchase","","{76A7A7A3-C245-019A-E593-D75AAF734EF8}"
+"2955","6873","16071","Andrew","","Mikel","","","Hancock Road","","Spotsylvania","VA","22553","True","2010-04-01 00:00:00","600.00","","","{AF68940D-9BB7-6B70-0F02-DCA0E7592357}"
+"2956","6874","16071","Andrew","","Mikel","","","Hancock Road","","Spotsylvania","VA","22553","True","2010-04-01 00:00:00","600.00","","","{2A0F5558-6B2C-F68F-0CEA-3E172D9A51A3}"
+"2971","6952","","Ronald John","","Villanueva","","","2428 Hillcrest Meadows Ln","","Virginia Beach","VA","23456","True","2009-10-20 00:00:00","3500.00","","","{D782E5B1-5DB8-DB2F-DBE1-F632A4175CCF}"
+"2972","6952","","Ronald John","","Villanueva","","","2428 Hillcrest Meadows Ln","","Virginia Beach","VA","23456","True","2011-06-30 00:00:00","5000.00","","","{D782E5B1-5DB8-DB2F-DBE1-F632A4175CCF}"

@@ -1,0 +1,4 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"41445","","350","180992","","","Bob Tata for House of Delegates","","","4536 Gleneagle Drive","","Virginia Beach","VA","23462","False","06/30/2014","1073.85","Bob Tata","Deduction for a mass discrepancy since 1984","{9E150FBE-3430-85E3-9AB2-4B90B3B01230}"
+"43815","","357","185724","James","P","Crozier","","","9651 Meadows Rd","","Mine Run","VA","22508","True","04/15/2014",".65","JAMES P CROZIER","Returned to candidate","{B8A158ED-38CD-4CE3-2CA9-A1C3C653A1E8}"
+"44265","","359","16647","Paul","","Handly","","","210 N Van Buren St","","Falls Church","VA","22046","True","01/16/2014","918.94","Paul Handly","closing account.","{620B2D22-DB31-5A84-6BE5-5D568214E91B}"

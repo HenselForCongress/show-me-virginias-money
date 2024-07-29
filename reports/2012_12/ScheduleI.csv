@@ -1,0 +1,3 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"10626","","135","64337","Glenn","Rodger","McGuire","Mr","","166 Rodeo Circle","","Newport News","VA","23608","True","12/11/2012","25.06","Glenn McGuire","Partial refund of donations.","{1E9E56BC-A497-5EC0-5748-2FF11341F10F}"
+"10917","","137","67049","","","New Dominion Project Political Action Committee","","","1909 Key Blvd.","558","Arlington","VA","22201","False","12/21/2012","19802.98","Michael Signer","deposit of excess funds to PAC","{BF77B83E-DB8A-932A-40F1-9176EBC3F9CE}"

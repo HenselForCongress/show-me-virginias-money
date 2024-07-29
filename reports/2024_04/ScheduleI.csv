@@ -1,0 +1,3 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"397505","","3853","1134252","","","Fairfax County Democratic Committee","","","8500 Executive Park Ave.","Suite 402","Fairfax","VA","22031","False","04/09/2024","164.86","Andrew Scalise","contribution","{53C7D454-B488-D0EA-11E5-1F481389E94E}"
+"397572","","3854","1133671","Janice","B.","Denton","Ms.","","807 Smithfield Avenue","","Hopewell","VA","23860","True","02/28/2024","940.00","Janice Denton","Closeout reimbursement","{1AFA3CD8-5DAC-D9B1-D3C1-616FFDC8559A}"

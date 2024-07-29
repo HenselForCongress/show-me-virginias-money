@@ -1,0 +1,3 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"135650","","1052","464488","N/A","","CWA COPE PCC","","","501 3rd Street, NW","","Washington","DC","20001","True","02/27/2018","8601.41","Bill Evitt","Return of funds to CWA COPE PCC","{6325D130-097D-9C20-4215-6CB0873CD75A}"
+"135997","","1054","466030","","","Ceasor Johnson for City Council","","","Post Office 2288","","Lynchburg","VA","24504","False","03/19/2018","2050.95","Ceasor Johnson","Transfer to new campaign account","{5110D1EE-64B2-B579-8055-31B5970A277B}"

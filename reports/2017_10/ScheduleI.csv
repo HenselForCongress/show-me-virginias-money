@@ -1,0 +1,4 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"124808","","960","433673","Laurence","","Webb","","","202 W Columbia","","Falls Church","VA","22046","True","09/30/2017","180.82","Laurence Webb","September Surplus","{AB9B950B-D9F7-A2CF-97F8-FEFA05B45E85}"
+"127163","","962","386409","Lara","Mills","Brown","","","77 Mad Calf Ln","","Irvington","VA","22480","True","10/04/2017","173.89","Lara Brown","Closed account.","{F678F6B9-29CF-256C-AD4B-9784615B14DB}"
+"127894","","970","402222","Christopher","Patrick","Cowger","","","4207 North Lakefront Drive","","Henrico","VA","23294","True","10/26/2017","70.00","Christopher Cowger","Closing Account","{C0FFCC09-58AF-C55C-F4EF-3F184516CCE9}"

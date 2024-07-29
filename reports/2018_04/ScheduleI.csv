@@ -1,0 +1,3 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"136389","","1059","464969","","","Home Builders Association of Virginia Build-PAC","","","707 E. Franklin St.","","RIchmond","VA","23219","False","03/21/2018","984.80","Kristin Atkins","Contribution","{5DF5AFDF-899C-029F-2AC0-A4383C797CBD}"
+"138460","","1061","473836","","","PLURAL, LC","","","92 Winchester Street","","Warrenton","VA","20186","False","04/25/2018","1343.27","Keith Macdonald","Surplus - Return Unspent Contribution","{43C9D62A-4999-F1A6-BA22-CC62C16B7E00}"

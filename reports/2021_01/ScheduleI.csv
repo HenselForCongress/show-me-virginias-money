@@ -1,0 +1,14 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"228087","","2172","743637","","","Friends of Tim Hugo (Lt Gov campaign)","","","PO Box 893","","Centreville","VA","20122","False","01/04/2021","92049.93","C. Marston","Contribution","{CAB46D05-8F4D-97BA-752F-3FB2337BBD87}"
+"228455","","2173","745998","John","Wesley","Mills","","","POBOX 135","32 DOMINION LANE","Amissville","VA","20106","True","09/30/2019","2.15","John W Mills","refund contribution","{DC1B6538-85B4-145B-A7B9-1B140C2D6E22}"
+"228877","","2182","699856","","","Winchester Republican Committee c/o Carolyn Griffin (Treasurer)","","","205 Fairmont Avenue","","Winchester","VA","22601","False","12/30/2020","66.65","Sierra Collins","Donation","{AC756110-FCE4-E345-56F4-4F6C834ED91B}"
+"228877","","2183","739948","","","Wiley for Delegate","","","703 South Stewart Street","","Winchester","VA","22601","False","12/30/2020","66.65","Sierra Collins","Campaign Donation","{AC756110-FCE4-E345-56F4-4F6C834ED91B}"
+"228877","","2184","739949","Kevin","","McKannan","","","166 Omps Drive","","Winchester","VA","22601","True","12/30/2020","66.65","Sierra Collins","Campaign Donation","{AC756110-FCE4-E345-56F4-4F6C834ED91B}"
+"228920","","2187","457171","Cainan","","Townsend","","","200 Holman Street","","Farmville","VA","23901","True","12/07/2017","191.95","Cainan Townsend","St. Jude Children's Hospital 
+262 Banny Thomas Place 
+Memphis TN 38105","{942AEA42-0B20-28E0-7ECC-6FDB85DEA1A1}"
+"230766","","2188","","Jody","","Wagner","","","7106 Ocean Front Ave","","Norfolk","VA","23509","True","12/17/2020","4947.86","Lucas Anderton","Repayment of loans","{36F9F372-D1D4-20E5-EA7A-C10C9C1EB83E}"
+"231098","","2189","507839","Crystal","M","Neilson-Hall","","","2643 Hadensville-Fife Road","","Goochland","VA","23063","True","09/15/2020","18.85","Kevin Neilson-Hall","Surplus","{98519B61-AEDD-633A-14FF-99C08FF1567D}"
+"231360","","2190","","","","United Negro College Fund","","","1805 7th St NW","","Washington","DC","20001-3186","False","01/16/2020","119.89","Justin Fairfax","Contribution to Charity","{D94501BD-5A68-4897-3C3C-721C465F8FBE}"
+"231750","","2191","751036","","","friends of marshall keene","","","22225 Curtis Mill Ln","","Richardsville","VA","22736","False","12/31/2020","1.00","Marshall D Keene","donation","{B2340298-9540-4375-CAA4-20AD84AE6166}"
+"231821","","2192","751273","","","Friends of Sharon Johnson Clayton","","","2012 Hallmark Way","","Chesapeake","VA","23323","False","12/31/2020","1521.00","Sharon Johnson-Clayton","Campaign contribution","{8BEA662B-1A10-84FF-E0FB-A9F3F24BF5EA}"

@@ -1,0 +1,6 @@
+"ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"312023","946145","","","Nova GOP PAC","","","13680 Bent Tree Circle","403","Centreville","VA","20121","False","11/15/2022","30.00","69742","Refund","","{CB9AFD4E-07AC-D393-D324-23280D4C9015}"
+"312024","952747","Thomas","","Millman","","","313 Upper Heyford Pl","","Purcellville","VA","20132","True","01/13/2023","127.50","69743","Reversal","","{9AAF3DE3-CA3E-4A33-6242-D3FC3765F91D}"
+"312263","786968","","","Google","","","1600 Amphitheatre Pkwy","","Mountain View","CA","94043","False","02/13/2023","32.34","69751","Refund","","{B3C5E103-AF70-CB58-ED7C-F2E0FC010DF4}"
+"312263","786968","","","Google","","","1600 Amphitheatre Pkwy","","Mountain View","CA","94043","False","02/13/2023","23.66","69752","Refund","","{B3C5E103-AF70-CB58-ED7C-F2E0FC010DF4}"
+"312340","802419","","","General Rental Center","","","544 E Constance Road","","Suffolk","VA","23434","False","12/30/2022","415.00","69764","Refund","","{5C3B9463-2AF3-A9F9-0218-52C3ED77F804}"

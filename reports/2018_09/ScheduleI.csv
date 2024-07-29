@@ -1,0 +1,3 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"145539","","1179","490356","","","Support the School Bonds 2018","","","1300 Army Navy Dr.","209","Arlington","VA","22202-2000","False","12/31/2016","253.54","Peter Fallon","Transfer Surplus to the Support the School Bonds 2018 campaign","{CD28E9E1-0830-690C-0CFD-FE44DA1F1C2C}"
+"146189","","1181","","","","Friends of Suhas Subramanyam.","","","PO Box 302","","Ashburn","VA","20146","False","09/28/2018","81193.09","","Surplus funds","{34109FAA-5B47-314F-A483-88433C7F846E}"

@@ -1,0 +1,2 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"92736","","781","312919","Joseph","A","Rogers","","","6194 James D Hagood Hwy","","Scottsburg","VA","24589","True","05/23/2016",".34","Joseph A. Rogers","return contribution","{64607F77-73F4-58B1-A0CA-73C0DD45F700}"

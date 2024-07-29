@@ -1,0 +1,3 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"17519","","170","99129","Tony","","OBrien","Mr.","","80 Chatham Lane","","Palmyra","VA","22963","True","05/29/2013","300.32","Joe Chesser","Contribution","{01394120-A95A-D613-34DB-4F5056792CAA}"
+"17519","","171","99143","","","JABA--Fluvanna County","","","674 Hillsdale Drive","Suite 9","Charlottesville","VA","22901","False","05/29/2013","186.00","Joe Chesser","Contribution","{01394120-A95A-D613-34DB-4F5056792CAA}"

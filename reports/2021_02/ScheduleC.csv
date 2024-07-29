@@ -1,0 +1,4 @@
+"ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"231987","682907","","","bank of america","","","1370 fordam dr","","virginia beach","VA","23464","False","01/25/2021","15.00","57051","refund","","{005CF67B-C391-DBEE-1226-60D22F693830}"
+"231987","736437","","","entercom norfolk wnvz","","","236 clearfield ave","206","virginia beach","VA","23462","False","01/25/2021","123.25","57052","radio refund","","{005CF67B-C391-DBEE-1226-60D22F693830}"
+"232140","752561","","","Dante Walston Portsmouth City Council 2020","","","5012 Dogwood Tr","","Portsmouth","VA","23703","False","02/09/2021","146.66","57061","Adjustment with explain","","{DBF2352C-6A83-8CB2-53AA-0F726947244B}"

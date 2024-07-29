@@ -1,0 +1,4 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"294453","","2827","920598","Jasbinder","","Singh","Mr.","","804 Third Street","","Herndon","VA","20170","True","06/30/2022","1179.39","Jasbinder Singh","Partial Refund of Initial Contribution","{0108AE07-611B-C4D6-B299-6A37C5C672CE}"
+"294754","","2828","922333","","","STAPLESMILL RD BAPTIST CHURCH","","","10101 STAPLES MILL RD","","GLENN ALLEN","VA","23060","False","08/20/2022","6751.48","TIMOTHY KOCH","CHARITABLE DONATION","{C65B15A9-BB28-5CBD-7FF3-246C275FE6DB}"
+"294865","","2829","922638","","","HOLDER TRUMBO FOR SUPERVISOR","","","PO BOX 187","","MARSHALL","VA","20116","False","10/24/2019","14096.19","HOLDER TRUMBO","TRANSFER TO NEW COMMITTEE","{2BEFD0D8-F153-1CD1-8CBC-6EB1A69E0091}"

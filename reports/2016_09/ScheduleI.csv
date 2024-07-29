@@ -1,0 +1,2 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"99126","","807","325746","Jim","","Fry","","","13 Bob White Lane","","Stafford","VA","22554","True","09/08/2016","895.24","Jim Fry","Loan Refunded","{DFDAC94C-4FE7-0ECB-9142-636504C29C58}"

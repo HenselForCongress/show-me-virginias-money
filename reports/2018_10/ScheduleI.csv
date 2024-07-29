@@ -1,0 +1,5 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"146548","","1182","","","","Friends of Suhas Subramanyam.","","","PO Box 302","","Ashburn","VA","20146","False","09/28/2018","80578.09","","Surplus Funds","{34109FAA-5B47-314F-A483-88433C7F846E}"
+"147563","","1184","490470","Justin","","House","","","11416 Rosebud Bend Lane","","Glen Allen","VA","23059","True","09/30/2018",".77","Justin House","Return Contribution","{C6267156-9517-31A4-C71F-D6BA44CA8738}"
+"147985","","1185","","","","John Bell for State Senate","","","PO Box 4488","","Broadlands","VA","20148-0022","False","10/17/2018","10643.40","David Choi","Disbursement of surplus funds","{3FDA3CFF-23D1-EB1D-6E55-271872439EB8}"
+"148016","","1186","480667","","","NVW PAC","","","PO BOX 26065","","Alexandria","VA","22313","False","10/10/2018","11194.24","Bill Sanderson","Political Contribution","{00CFDF23-09FB-8CF0-2525-D72E30FF6C9E}"

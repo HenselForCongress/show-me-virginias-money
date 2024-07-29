@@ -1,0 +1,2 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"19202","","174","105035","","","American Legion Post 290","","","1204 American Legion Rd.","","Fredericksburg","VA","22405","False","06/18/2013","23.21","Keith Angle","Donation","{AD6DEA04-2CC3-8ADD-CCA6-37CFF022F2DE}"

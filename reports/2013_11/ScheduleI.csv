@@ -1,0 +1,4 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"31192","","260","96505","Mark","","Oliphant","","","27926 Dixon Creek Lane","","Easton","MD","21601","True","08/02/2013","50.00","Joshua Farrar","Refund","{654542A0-83FA-55CE-E858-4720125612F6}"
+"31192","","261","152860","","","Arlington County Republican Committee","","","405 S Glebe Rd","","Arlington","VA","22204","False","11/18/2013","104.32","Joshua Farrar","Campaign surplus","{654542A0-83FA-55CE-E858-4720125612F6}"
+"31514","","262","153633","","","Mathews Volunteer Fire Department","","","P.O. Box 1130","","Mathews","VA","23109","False","11/20/2013","330.00","Neena","Donation of surplus funds","{B86403A4-35DB-00D0-0CCB-0A44B6849095}"

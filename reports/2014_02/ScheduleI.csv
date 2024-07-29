@@ -1,0 +1,2 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"37465","","328","126669","Joan","","Ziglar","","","P O Box 3574","","Martinsville","VA","24114","True","11/28/2013","34.47","Joan Ziglar","Balance in Campaign Account-reimburse expenses of J. Ziglar","{14C62F55-B680-0F2D-AAC8-CAC1C4C9295D}"

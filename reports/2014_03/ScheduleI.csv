@@ -1,0 +1,2 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"37598","","336","154089","Brad","","Rosenberger","Mr","","4287 Rixeyville Rd","","Jeffersonton","VA","22724","True","11/13/2013","527.55","Mary Dale","Cash Reimbursement for expenditures paid by credit card","{93257C3E-5054-4F3B-8548-26102544B0B0}"

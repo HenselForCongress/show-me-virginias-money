@@ -1,0 +1,6 @@
+"ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"47659","","","","PowerPay","","","320 Cumberland Ave","","Portland","ME","04101","False","07/03/2014","6282.11","16079","Credit of Excess Processing Fees","","{03FDF310-CA78-307D-9478-A370F321589A}"
+"47708","36883","","","City of Alexandria","","","P.O. Box 178","","Alexandria","VA","22313","False","02/27/2012","100.00","16107","Sign bond refund","","{9D5FF7EF-C8A1-00DB-0C12-8BEC686F9497}"
+"47804","88184","","","Prince William County","","","1 County Complex","","Prince William","VA","22192","False","04/18/2013","352.80","16144","Refund of filing fee","","{4843306C-57D5-DF21-7C62-51EE7CEA5827}"
+"47825","88184","","","Prince William County","","","1 County Complex","","Prince William","VA","22192","False","04/18/2013","352.80","16146","Refund of filing fee","","{4843306C-57D5-DF21-7C62-51EE7CEA5827}"
+"47834","88180","","","NGP VAN","","","1101 15th Street NW","Suite 500","Washington","DC","20005","False","12/05/2013","100.00","16147","Refund for overpayment","","{8C8BD5CB-10F3-9069-DF5F-C61A448BD1C1}"

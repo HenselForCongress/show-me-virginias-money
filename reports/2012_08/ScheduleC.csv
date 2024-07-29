@@ -1,0 +1,3 @@
+"ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"6952","","","","Innovative Campaign Strategies","","","PO Box 264","","Columbia","SC","29202","False","06/30/2012","3500.00","3106","reverse double entered exp from 11/11","","{D782E5B1-5DB8-DB2F-DBE1-F632A4175CCF}"
+"6952","","","","Sprint","","","PO Box 105243","","Atlanta","GA","30348-5243","False","06/06/2012","20.99","3107","","","{D782E5B1-5DB8-DB2F-DBE1-F632A4175CCF}"

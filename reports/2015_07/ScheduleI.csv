@@ -1,0 +1,2 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"63920","","563","214762","Nathanael","","Swanson","","","3154 Patrick Henry Dr","","Falls Church","VA","22044","True","07/13/2015","1009.03","Jessica Swanson","Final disposition of campaign funds.","{6E52292A-1258-113D-2B86-C4554653754C}"

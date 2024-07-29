@@ -1,0 +1,2 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"120493","","956","251300","","","Heritage Mini Storage","","","PO Box 174","","Stuarts Draft","VA","24477","False","01/27/2017","1155.83","Todd Davis","Refund of Excess funds to large donor prior to close account","{A7E430EA-C6A0-F52E-1776-5A07FF82B57E}"

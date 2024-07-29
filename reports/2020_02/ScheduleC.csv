@@ -1,0 +1,7 @@
+"ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"203609","569735","","","Bank of America","","","3901 Stillman Pkwy","","Glen Allen","VA","23060","False","12/31/2019",".24","48888","Interest earned","","{27EF593B-1057-F9B2-3743-D67E65E10A7B}"
+"203791","298411","","","Beacon Light Civic League, Inc.","","","Post Office Box 4683","","Norfolk","VA","23523","False","06/25/2016","1000.00","48925","Check#1902 Never cashed","","{E0E73EB3-8E37-4624-7813-71533F3FFC98}"
+"203826","569735","","","Bank of America","","","3901 Stillman Pkwy","","Glen Allen","VA","23060","False","12/31/2019",".24","48936","Interest earned","","{27EF593B-1057-F9B2-3743-D67E65E10A7B}"
+"203887","531289","","","Henrico Federal Credit Union","","","9401 West Broad Street","","Henrico","VA","23294","False","12/31/2019",".03","48963","Interest","","{4C15A1EB-9233-E187-00EA-D9E1B90E8994}"
+"203920","680426","","","Friends of Joe Dombroski","","","6800 New Kent Highway","","New Kent","VA","23124","False","01/13/2020","500.00","48964","Math Adjustment","","{949CDF5A-D1B6-AF9F-3D7B-F061D4556342}"
+"204035","395937","","","Google Inc.","","","1600 Amphitheatre Pkwy","","Mountain View","CA","94043","False","10/01/2018","2.13","48996","Refund for unused AdWords budget","","{372DE069-6A07-60FC-09F9-BA980421AE98}"

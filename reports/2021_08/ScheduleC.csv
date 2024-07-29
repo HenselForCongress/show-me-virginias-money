@@ -1,0 +1,5 @@
+"ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"250476","595989","","","Bank of America","","","Unknown","","Richmond","VA","12345","False","06/30/2021","105.00","59505","Refund NSF Fees","","{45150639-AA65-6B21-DC5C-08ACEA18494B}"
+"250476","772903","","","Facebook","","","Facebook.com","","Cambridge","MA","12345","False","06/28/2021","2521.50","59506","Hacked Ads Refund","","{45150639-AA65-6B21-DC5C-08ACEA18494B}"
+"251161","92542","","","Prince William County Government","","","1 County Complex Ct","","Woodbridge","VA","22192","False","04/15/2021","352.81","59560","Refund for Filing Fee","","{EF363ED4-DCC0-2930-3019-8DB2B858D424}"
+"251299","822492","","","Vista Print Netherlands BV","","","P. O. Box 842882","","Boston","MA","02284","False","06/17/2021","78.19","59569","didn't apply coupon to order","","{A36D2779-4030-21B9-AFD2-F71F74620FA0}"

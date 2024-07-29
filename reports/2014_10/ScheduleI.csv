@@ -1,0 +1,2 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"46785","","364","194524","","","Coalition for Smarter Growth","","","16 F St NE","200","Washington","DC","20002","False","07/03/2014","1769.72","Jason Rylander","Contribution","{B31F1E64-AD37-76F0-3645-B0DC82EC27AF}"

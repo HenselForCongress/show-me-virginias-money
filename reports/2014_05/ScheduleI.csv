@@ -1,0 +1,3 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"39531","","341","171839","","","National Wildlife Federation Action Fund","","","901 E Street, NW, Ste. 400","","Washington","DC","20004","False","04/14/2014","40211.11","Mary Harris","Donation","{4058C5B7-F335-1F39-9C5E-3EDDD575EDBE}"
+"40322","","343","178050","William","T","Hartley","","","1230 Massachusetts Avenue","","Bristol","VA","24201","True","05/28/2014","1.98","William Hartley","Refund surplus back to candidate","{BA1A57AD-45A3-D2CD-784C-E72D6E59D3A2}"

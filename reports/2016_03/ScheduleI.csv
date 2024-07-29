@@ -1,0 +1,6 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"89271","","771","303204","","","SEEDS, Inc.","","","P.O. Box 824","","Blacksburg","VA","24063","False","12/17/2015","2900.00","L. Hager-Smith","Donation to SEEDS, Inc.  501 C 3","{E0533D0E-2819-11BF-B12B-D8CE86A1BE08}"
+"89476","","772","303763","Earl","","Smith","","","5166 Viewmont West Drive","","Charlottesville","VA","22902","True","03/14/2016","29.00","Earl Smith","Refund contribution of $29.00","{07A3CB3C-1A2C-0554-12AE-C70186042699}"
+"89500","","773","303853","Account","","Adjustment","","","PO Box 3318","","Roanoke","VA","24015","True","03/16/2016","495.00","Hank Benson","Adjustment","{978327A8-62AC-C79C-4229-E2D28885B8A7}"
+"89502","","774","303861","Account","","Adjustment","","","po box 3318","","roanoke","VA","24015","True","03/16/2016","1560.91","John Lawless","Adjustment","{8EFF430E-B260-70D2-04E7-311ECBAD63F7}"
+"89503","","775","303865","Account","","Adjustment","","","po box 3318","","roanoke","VA","24015","True","03/16/2016","1747.61","John Lawless","Adjustment","{6C66EA17-66D3-52E1-45A6-32C8F1F81F7D}"

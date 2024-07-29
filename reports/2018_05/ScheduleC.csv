@@ -1,0 +1,2 @@
+"ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"138917","412810","","","Dupont Community Credit Union","","","P.O. Box 1365","","Waynesboro","VA","22980","False","12/31/2017",".02","35566","Dividend","","{D6252234-C853-5BF3-724D-7819E23D013C}"

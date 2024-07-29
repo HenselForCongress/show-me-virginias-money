@@ -1,0 +1,2 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"107765","","842","350413","Capelli","","Sara","","","Box 1291","","Powhatan","VA","23139","True","01/12/2016","71.61","Teresa Dobbins","Surplus funds to Campaign Manager","{E443D33C-3645-309F-FCEC-9CA17A3FD737}"
