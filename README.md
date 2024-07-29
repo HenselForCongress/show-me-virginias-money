@@ -68,7 +68,7 @@ Feel free to fork this repository and submit pull requests. Any improvements and
 
 ## License
 
-All repositories under the Hensel for Congress organization are licensed under the GNU Affero General Public License version 3.0 (AGPL-3.0). You are free to use, copy, distribute, and modify the software as long as any modifications or derivative works are also licensed under AGPL-3.0. This ensures that the source code remains available to users interacting with the software over a network, promoting transparency and the freedom to modify networked software.
+All repositories under the Hensel for Congress organization are licensed under the GNU Affero General Public License version 3.0 (AGPL-3.0). You are free to use, copy, distribute, and modify the software **as long as any modifications or derivative works are also licensed under AGPL-3.0.** This ensures that the source code remains available to users interacting with the software over a network, promoting transparency and the freedom to modify networked software.
 
 For more details, see the [full text of the license](https://www.gnu.org/licenses/agpl-3.0.html).
 
