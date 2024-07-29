@@ -7,9 +7,7 @@ use std::error::Error;
 use std::fs::{self, File as StdFile};
 use std::io::Write;
 use std::sync::Arc;
-use std::time::Duration;
 use reqwest::{Client, cookie::Jar, header};
-use tokio::time::sleep;
 use url::Url;
 
 const BASE_URL: &str = "https://apps.elections.virginia.gov/SBE_CSV/CF/";
@@ -69,24 +67,32 @@ async fn main() -> Result<(), Box<dyn Error>> {
             }
         };
 
-        // Download each file
+        // Download each file concurrently
+        let mut handles = vec![];
         for &file in FILES {
             let file_url = format!("{}{}", url, file);
             let file_path = format!("reports/{}/{}", dir, file);
-            info!("Downloading {} to {}", file_url, file_path);
-            println!("Downloading {} to {}", file_url, file_path);
+            let cookies_clone = cookies.clone();
+            let mut broken_link_writer = broken_links.try_clone().expect("Failed to clone broken links file handle");
 
-            if let Err(err) = download_file_directly(&cookies, &file_url, &file_path).await {
-                error!("Failed to download {}: {}", file_url, err);
-                eprintln!("Failed to download {}: {}", file_url, err);
-                writeln!(broken_links, "{}", file_url)?;
-            } else {
-                info!("Successfully downloaded {}", file_url);
-                println!("Successfully downloaded {}", file_url);
-            }
+            handles.push(tokio::spawn(async move {
+                info!("Downloading {} to {}", file_url, file_path);
+                println!("Downloading {} to {}", file_url, file_path);
 
-            // To avoid rate limiting, add a delay between requests.
-            sleep(Duration::from_millis(500)).await;
+                if let Err(err) = download_file_directly(&cookies_clone, &file_url, &file_path).await {
+                    error!("Failed to download {}: {}", file_url, err);
+                    eprintln!("Failed to download {}: {}", file_url, err);
+                    writeln!(broken_link_writer, "{}", file_url).unwrap();
+                } else {
+                    info!("Successfully downloaded {}", file_url);
+                    println!("Successfully downloaded {}", file_url);
+                }
+            }));
+        }
+
+        // Wait for all download tasks to complete
+        for handle in handles {
+            handle.await?;
         }
 
         // Increment the month

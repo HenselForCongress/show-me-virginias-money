@@ -2,7 +2,13 @@
 
 ## Overview
 
-This Rust application is designed to aggressively scrape financial report data from the Virginia election website, overcoming access restrictions and ensuring data availability to the public. It leverages headless Chrome to establish a session and retrieve cookies, and then uses those cookies to perform direct file downloads via `reqwest`. If the Commonwealth of Virginia wasn't so keen on keeping this data from being used externally, I wouldn't have to be so aggressive.
+This Rust application is designed to aggressively scrape financial report data from the Virginia election website, overcoming access restrictions and ensuring data availability to the public. It leverages headless Chrome to establish a session and retrieve cookies, and then uses those cookies to perform direct file downloads via `reqwest`.
+
+If the Commonwealth of Virginia wasn't so keen on keeping this data from being used externally, I wouldn't have to be so aggressive. #DefaultOpen
+
+This project *mirrors* the content found on the [official Virginia reports](https://apps.elections.virginia.gov/SBE_CSV/CF/). The only difference is that these files are actually usable. IE you don't have to download one report at a time. Additionally, this code runs every night and stores results in this project. If any of the files change or are modified, then those changes are reflected here.
+
+[View All Virginia Campaign Finance Reports](reports)
 
 ## Features
 
