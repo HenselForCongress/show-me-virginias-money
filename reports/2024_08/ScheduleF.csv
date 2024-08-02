@@ -1,0 +1,4 @@
+"ScheduleFId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","PurposeOfObligation","ScheduleId","ReportUID"
+"317882","411297","1000253","Debra","Jean","Davis","Mrs.","Virginia","5700 Wards Rd.","","Hurt","VA","24563","True","2023-05-23 00:00:00","87.56","","","{3C653B4A-6946-71E6-ACC9-3297D4ED65E1}"
+"317935","411337","1132813","Sharon","D.","Anderson","Ms.","","6005 Dunkirk Street","","Portsmouth","VA","23703","True","2024-01-26 00:00:00","25.00","","","{79284CCA-317F-1E99-70C9-E7CAFD05BC93}"
+"317936","411337","1147521","Sharon","D","Anderson","Ms.","Virginia","6005 Dunkirk Street","","Portsmouth","VA","23703","True","2024-05-31 00:00:00","400.00","","","{79284CCA-317F-1E99-70C9-E7CAFD05BC93}"
