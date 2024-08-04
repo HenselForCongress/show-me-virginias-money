@@ -1,1 +1,2 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"411399","1145580","Credit Union","","Chartway Federal","","","160 Newtown Rd","","Virginia Beach","VA","23462","True","07/03/2024","10.00","81471","Refund - bank fee","","{D6C60E23-89B0-C2BD-8841-473252B9CC0B}"
