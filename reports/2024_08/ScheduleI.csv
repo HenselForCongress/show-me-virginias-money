@@ -1,2 +1,3 @@
 "ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
 "411399","","3928","1145219","Ken","","Paulson","","","2071 E OCEAN VIEW AVE","","norfolk","VA","23503","True","08/01/2024","4442.68","Ken Paulson","Surplus distribution","{D6C60E23-89B0-C2BD-8841-473252B9CC0B}"
+"411620","","3929","1160537","","","Freedom Pac","","","1868 Chantilly Court","","Virginia Beach","VA","23451","False","08/12/2024","2323.84","Justin Burns","Campaign Surplus Funds","{D2BCC1D6-8DFB-0B56-2B93-3C839453B1F8}"
