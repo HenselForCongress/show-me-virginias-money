@@ -1,4 +1,5 @@
 "ScheduleFId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","PurposeOfObligation","ScheduleId","ReportUID"
+"85586","114968","302551","Lee","Jin","Carter","","","9612 Fairview Ave","","Manassas","VA","20110","True","2016-02-04 00:00:00","300.00","","","{269C0564-E0DD-CCBE-47B5-4378E13A619B}"
 "92377","122936","418336","Ann","","Burruss","","","8659 Broadmarsh Lane","","Hayes","VA","23072","True","2017-09-15 00:00:00","500.00","","","{486F9F73-BCFE-8519-3A92-F5B64AAE12AA}"
 "92378","122939","401023","Charlottesville","","City","","","Main Street","","Charlottesville","VA","22902","True","2017-06-24 00:00:00","375.00","","","{38A29008-422B-ECE3-8122-EF8F37514F0C}"
 "92379","122939","409683","Bemeche","","Kicks","Mr.","","317 High Rock Road","","Rice","VA","23966","True","2017-08-31 00:00:00","62.00","","","{38A29008-422B-ECE3-8122-EF8F37514F0C}"
@@ -1762,4 +1763,3 @@ The Printing Express could not locate","","{8A85AA3C-8B6B-C6A0-9AE5-73CE6A6B2C6F
 "96371","127983","380737","Penny","Edwards","Blue","Ms","","10440 Old Franklin Turnpike","","Union Hall","VA","24176","True","2017-05-08 00:00:00","100.00","","","{D7C260F3-1F44-0ABC-72A4-843EDDD85DB0}"
 "96372","127997","190114","David","A","Ledbetter","Mr.","","116-A South Wayne Avenue","","Waynesboro","VA","22980","True","2014-07-09 00:00:00","500.00","","","{4DC5C8D6-499E-D386-A9AF-E44E19484509}"
 "96373","128041","220358","Anna","","Urman","","","4410 Flintstone Rd","Ste 100","Alexandria","VA","22306","True","2015-06-02 00:00:00","1068.99","","","{68D2509D-91F9-F5B3-1A39-33E32A06720E}"
-"85586","114968","302551","Lee","Jin","Carter","","","9612 Fairview Ave","","Manassas","VA","20110","True","2016-02-04 00:00:00","300.00","","","{269C0564-E0DD-CCBE-47B5-4378E13A619B}"
