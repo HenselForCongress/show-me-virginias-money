@@ -1,0 +1,3 @@
+"ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"412307","105333","","","Wells Fargo Bank","","","P.O. Box 6995","","Portland Oregon","VA","97228","False","07/31/2024",".06","81626","interest","","{4A08925D-535B-D235-660D-40E502FFFBB7}"
+"412307","105333","","","Wells Fargo Bank","","","P.O. Box 6995","","Portland Oregon","VA","97228","False","08/30/2024",".07","81627","interest","","{4A08925D-535B-D235-660D-40E502FFFBB7}"
