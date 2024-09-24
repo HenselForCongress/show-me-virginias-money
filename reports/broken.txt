@@ -1,0 +1,2 @@
+https://apps.elections.virginia.gov/SBE_CSV/CF/2016_04/ScheduleE.csv
+https://apps.elections.virginia.gov/SBE_CSV/CF/2016_04/ScheduleD.csv

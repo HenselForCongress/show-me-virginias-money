@@ -1,10 +1,4 @@
 "ScheduleFId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","PurposeOfObligation","ScheduleId","ReportUID"
-"59200","80678","70157","","","The Printing Express","","","PO Box 1975","","Harrisonburg","VA","22801","False","2012-08-30 00:00:00","300.00","fundraising letter proposal - did not use
-The Printing Express could not locate","","{E95531D4-8780-1B6B-DDFF-EA0F94F7C2ED}"
-"59201","80678","70157","","","The Printing Express","","","PO Box 1975","","Harrisonburg","VA","22801","False","2015-10-13 00:00:00","646.43","Handout Survey mailing","","{E95531D4-8780-1B6B-DDFF-EA0F94F7C2ED}"
-"59202","80678","70157","","","The Printing Express","","","PO Box 1975","","Harrisonburg","VA","22801","False","2015-10-14 00:00:00","307.48","Palm Cards","","{E95531D4-8780-1B6B-DDFF-EA0F94F7C2ED}"
-"61633","83295","236885","Shannon","Lee","Smith-Wood","Ms.","","5658 Catlett Rd","","Midland","VA","22728","True","2015-05-05 00:00:00","5.00","","","{4FFB2ADC-4F5D-A9E5-6D8E-CF9B62D6609A}"
-"61634","83295","289173","Shannon","Lee","Smith-Wood","Ms.","","5658 Catlett Rd","","Midland","VA","22728","True","2015-10-21 00:00:00","88.34","","","{4FFB2ADC-4F5D-A9E5-6D8E-CF9B62D6609A}"
 "64007","84805","224333","Jennifer","Dawn","Tomes","Mrs.","","8629 Diascund Road","","Lanexa","VA","23089","True","2015-02-10 00:00:00","100.00","","","{1FB91AFB-F42E-D8B1-1707-2ECA6A4C6A35}"
 "64008","84805","224333","Jennifer","Dawn","Tomes","Mrs.","","8629 Diascund Road","","Lanexa","VA","23089","True","2015-03-13 00:00:00","200.00","","","{1FB91AFB-F42E-D8B1-1707-2ECA6A4C6A35}"
 "64009","84805","224333","Jennifer","Dawn","Tomes","Mrs.","","8629 Diascund Road","","Lanexa","VA","23089","True","2015-10-19 00:00:00","100.00","","","{1FB91AFB-F42E-D8B1-1707-2ECA6A4C6A35}"
@@ -1601,3 +1595,9 @@ The Printing Express could not locate","","{E3DFB833-DE57-61B6-11DE-3BBB0FE7B9B8
 "67493","88842","163154","","","CRF Holdings LLC","","","2617 Columbia Pike","","Arlington","VA","22204","False","2014-01-07 00:00:00","5000.00","","","{841C9E53-3811-E2FE-9CEF-34F71FE59DC9}"
 "67494","88842","163154","","","CRF Holdings LLC","","","2617 Columbia Pike","","Arlington","VA","22204","False","2014-02-06 00:00:00","4000.00","","","{841C9E53-3811-E2FE-9CEF-34F71FE59DC9}"
 "67495","88842","163154","","","CRF Holdings LLC","","","2617 Columbia Pike","","Arlington","VA","22204","False","2014-03-15 00:00:00","2000.00","","","{841C9E53-3811-E2FE-9CEF-34F71FE59DC9}"
+"59200","80678","70157","","","The Printing Express","","","PO Box 1975","","Harrisonburg","VA","22801","False","2012-08-30 00:00:00","300.00","fundraising letter proposal - did not use
+The Printing Express could not locate","","{E95531D4-8780-1B6B-DDFF-EA0F94F7C2ED}"
+"59201","80678","70157","","","The Printing Express","","","PO Box 1975","","Harrisonburg","VA","22801","False","2015-10-13 00:00:00","646.43","Handout Survey mailing","","{E95531D4-8780-1B6B-DDFF-EA0F94F7C2ED}"
+"59202","80678","70157","","","The Printing Express","","","PO Box 1975","","Harrisonburg","VA","22801","False","2015-10-14 00:00:00","307.48","Palm Cards","","{E95531D4-8780-1B6B-DDFF-EA0F94F7C2ED}"
+"61633","83295","236885","Shannon","Lee","Smith-Wood","Ms.","","5658 Catlett Rd","","Midland","VA","22728","True","2015-05-05 00:00:00","5.00","","","{4FFB2ADC-4F5D-A9E5-6D8E-CF9B62D6609A}"
+"61634","83295","289173","Shannon","Lee","Smith-Wood","Ms.","","5658 Catlett Rd","","Midland","VA","22728","True","2015-10-21 00:00:00","88.34","","","{4FFB2ADC-4F5D-A9E5-6D8E-CF9B62D6609A}"
