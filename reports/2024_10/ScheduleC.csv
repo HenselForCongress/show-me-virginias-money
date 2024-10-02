@@ -1,0 +1,7 @@
+"ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"415585","","","","DuPont Community Credit Union","","","1820 S High St","","Harrisonburg","VA","22801-8501","False","04/30/2024","8.67","82531","Community Credit Union Dividend","","{7A35D55E-3FBB-64DC-EB63-392421CDD6ED}"
+"415588","","","","DemSoft LLC","","","198 Van Buren St","Ste 100","Herndon","VA","20170-5338","False","06/27/2024","15000.00","82532","Project Management","","{9615B77C-C26C-B8A2-257A-AFB541F6766F}"
+"415588","","","","DuPont Community Credit Union","","","1820 S High St","","Harrisonburg","VA","22801-8501","False","05/31/2024","6.62","82533","Community Credit Union Dividend","","{9615B77C-C26C-B8A2-257A-AFB541F6766F}"
+"415588","","","","DuPont Community Credit Union","","","1820 S High St","","Harrisonburg","VA","22801-8501","False","06/30/2024","3.20","82534","Community Credit Union Dividend","","{9615B77C-C26C-B8A2-257A-AFB541F6766F}"
+"415588","","","","DuPont Community Credit Union","","","1820 S High St","","Harrisonburg","VA","22801-8501","False","07/31/2024","24.81","82535","Community Credit Union Dividend","","{9615B77C-C26C-B8A2-257A-AFB541F6766F}"
+"415588","","","","DuPont Community Credit Union","","","1820 S High St","","Harrisonburg","VA","22801-8501","False","08/31/2024","27.21","82536","Community Credit Union Dividend","","{9615B77C-C26C-B8A2-257A-AFB541F6766F}"

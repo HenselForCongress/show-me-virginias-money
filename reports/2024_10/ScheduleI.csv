@@ -1,0 +1,2 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"415288","","3939","1170921","","","Nelson County Republican Committee","","","P. O. Box 394","","Lovingston","VA","22949","False","09/24/2024","1337.60","Marian Dixon","Political Party Contribution","{556A26B0-494F-03D6-3356-86674F1C44A5}"
