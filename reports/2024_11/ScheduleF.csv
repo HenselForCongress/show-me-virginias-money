@@ -1,0 +1,5 @@
+"ScheduleFId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","PurposeOfObligation","ScheduleId","ReportUID"
+"323903","421193","1167424","Tina","L.","Vick","Ms.","Virginia","625 Ivy Avenue","","Newport News","VA","23607","True","2024-09-09 00:00:00","601.00","","","{B91F43B8-BCE8-0F11-C5FD-2A11D3F45FE6}"
+"323906","421214","1147910","lateef","jameel","shaheer","mr","","3200 Franklin Street","","Chesapeake","VA","23324","True","2024-08-15 00:00:00","3500.00","","","{3846B803-5B01-17F5-91AB-3B73D5FC02C4}"
+"323907","421216","1147910","lateef","jameel","shaheer","mr","","3200 Franklin Street","","Chesapeake","VA","23324","True","2024-08-15 00:00:00","3500.00","","","{2FFA0C27-57FF-FA9E-0B18-A71DAC481CB6}"
+"323908","421218","1147910","lateef","jameel","shaheer","mr","","3200 Franklin Street","","Chesapeake","VA","23324","True","2024-08-15 00:00:00","3500.00","","","{119C686C-11BE-6963-E82A-CE94E239BE3D}"

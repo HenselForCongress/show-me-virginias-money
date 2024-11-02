@@ -1,5 +1,4 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","NameOfEmployer","OccupationOrTypeOfBusiness","PrimaryCityAndStateOfEmploymentOrBusiness","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","TotalToDate","ScheduleAId","ScheduleId","ReportUID"
-"116795","395132","Tom","","Dabney","","","","Retired","","414 Duke Street","","Alexandria","","24401","True","07/09/2017","5000.00",".00","2502552","","{3096070B-3594-8E03-2C43-A0E1213C06F4}"
 "120002","403909","Kathleen","","Dawson","Ms.","","Retired","Retired","Winchester, VA","203 Canyon Rd.","","Winchester","VA","22602","True","06/28/2017","500.00","500.00","2856753","","{A86D3350-7BC8-916A-AD17-25B9607825F6}"
 "120022","298240","Christopher","J","Hamilton","","","HSP Direct","Fundraising","Ashburn, VA","216 W O Street","","Purcellville","VA","20132","True","07/31/2017","283.56","283.56","2856989","","{A0C9F10A-DC9E-C838-CC70-F8D43D931B6C}"
 "120022","298240","Christopher","J","Hamilton","","","HSP Direct","Fundraising","Ashburn, VA","216 W O Street","","Purcellville","VA","20132","True","07/31/2017","337.92","621.48","2856990","","{A0C9F10A-DC9E-C838-CC70-F8D43D931B6C}"
@@ -1971,3 +1970,4 @@
 "120636","106262","","","New Centaur, LLC","","","","Entertainment","Indianapolis, IN","111 Monument Circle","","Indianapolis","IN","46204","False","08/17/2017","10000.00","90000.00","2873046","","{9C48B80F-2059-0A9D-4ADF-8760CBD80CEE}"
 "120636","106276","","","Nuclear Energy Institute","","","","Trade Association","Washington, DC","1201 F Street, NW","Suite 1100","Washington","DC","20004","False","08/30/2017","40.00","50790.00","2873047","","{9C48B80F-2059-0A9D-4ADF-8760CBD80CEE}"
 "120636","106283","","","The Dow Chemical Company","","","","Consumer products","Midland, MI","2511 E. Patrick Road","","Midland","MI","48641","False","08/25/2017","25000.00","25000.00","2873048","","{9C48B80F-2059-0A9D-4ADF-8760CBD80CEE}"
+"116795","395132","Tom","","Dabney","","","","Retired","","414 Duke Street","","Alexandria","","24401","True","07/09/2017","5000.00",".00","2502552","","{3096070B-3594-8E03-2C43-A0E1213C06F4}"
