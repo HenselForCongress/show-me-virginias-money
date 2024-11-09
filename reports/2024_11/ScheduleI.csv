@@ -1,1 +1,2 @@
 "ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"421530","","3952","1184677","Kimberly","","Wallace","","","548 Allston Cir","","Winchester","VA","22601","True","11/08/2024","25.00","Elyus Wallace","Refund of money to start campaign fund- money not spent","{006CE2C3-A913-610E-F907-9043C5BFDE47}"
