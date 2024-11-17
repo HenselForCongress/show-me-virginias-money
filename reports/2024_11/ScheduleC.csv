@@ -1,1 +1,2 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"421720","1185424","","","Capital One","","","13236 Gateway Center Dr","","Gainesville","VA","20155","False","10/31/2024",".05","83219","interest paid on checking accoutn","","{28E08FCC-7688-31DF-D213-3CA2556F688B}"
