@@ -1,1 +1,2 @@
 "ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"422534","","4025","1186587","William","Gwyn","Combs","","","1936 Pugh Mountain Road","","Sugar Grovre","VA","24375","True","11/13/2024","89.69","Gwyn Combs","surplus funds; account closed","{5817039A-3156-2305-40ED-B199D08B4AC7}"

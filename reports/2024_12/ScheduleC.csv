@@ -1,3 +1,6 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
 "422467","1181420","","","Bayport Credit Union","","","1 Bayport Way","Suite 350","Newport News","VA","23606","False","10/25/2024",".64","83280","Interest","","{493F5376-C3EC-8FDE-5C02-B16E18295D0A}"
 "422484","1172805","","","Hilton Multimedia","","","309 Ford Drive","","Suffolk","VA","23435","False","11/20/2024","400.00","83281","Refund for unspent advertising budget","","{3275848C-35E3-5342-38F0-4A243806AABB}"
+"422615","105333","","","Wells Fargo Bank","","","P.O. Box 6995","","Portland Oregon","VA","97228","False","10/30/2024",".06","83294","interest","","{FA05852F-9485-5F6D-F4C7-0042ADA371C3}"
+"422626","1171066","","","Lowe's Home Center","","","4224 Valley Avenue","","Roanoke","VA","24018","False","11/25/2024","24.75","83299","Return Metal Sign Poles","","{5DF15671-B6D8-EDAB-034C-F85CEE6693F5}"
+"422626","1181073","","","Effectv","","","55 W 46th St,","Floor 33 & 34","New York","NY","10036","False","11/19/2024","56.90","83300","Credit for Unused Commercial Time","","{5DF15671-B6D8-EDAB-034C-F85CEE6693F5}"
