@@ -1,6 +1,4 @@
 "ScheduleFId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","PurposeOfObligation","ScheduleId","ReportUID"
-"278953","350418","991410","Allison","","Spillman","","","6610 Welbourne Lane","","Crozet","VA","22932","True","2023-02-23 00:00:00","192.00","","","{F2BDC9A4-6997-8608-9B45-C21BB99B3BC4}"
-"278954","350418","991410","Allison","","Spillman","","","6610 Welbourne Lane","","Crozet","VA","22932","True","2023-03-21 00:00:00","226.79","","","{F2BDC9A4-6997-8608-9B45-C21BB99B3BC4}"
 "287912","366716","958659","Paul","","Thomas","","","11223 Hunting Horn Ln","","Reston","VA","20191","True","2022-07-26 00:00:00","750.00","","","{5E0039C8-CF54-F74C-120C-8490AD4B847C}"
 "287913","366716","958659","Paul","","Thomas","","","11223 Hunting Horn Ln","","Reston","VA","20191","True","2023-04-05 00:00:00","3000.00","","","{5E0039C8-CF54-F74C-120C-8490AD4B847C}"
 "290934","370714","223832","Chris","","Winslow","","","1021 Ashbrook Landing Road","","Midlothian","VA","23114","True","2022-12-30 00:00:00","20000.00","","","{8E212821-6E6D-218C-9C31-4FD5B6D9DECB}"
@@ -423,3 +421,5 @@
 "293374","378290","719779","Jennifer","","Franklin","","Virginia","5701 Lancelot Drive","","Virginia Beach","VA","23464","True","2020-10-02 00:00:00","296.25","","","{37CDF359-6F98-717F-2608-127B35AC8FF0}"
 "293375","378290","721446","Jennifer","","Franklin","","Virginia","5701 Lancelot Drive","","Virginia Beach","VA","23464","True","2020-10-08 00:00:00","200.00","","","{37CDF359-6F98-717F-2608-127B35AC8FF0}"
 "293376","378290","804075","Jennifer","","Franklin","","Virginia","5701 Lancelot Drive","","Virginia Beach","VA","23464","True","2021-06-02 00:00:00","500.00","","","{37CDF359-6F98-717F-2608-127B35AC8FF0}"
+"278953","350418","991410","Allison","","Spillman","","","6610 Welbourne Lane","","Crozet","VA","22932","True","2023-02-23 00:00:00","192.00","","","{F2BDC9A4-6997-8608-9B45-C21BB99B3BC4}"
+"278954","350418","991410","Allison","","Spillman","","","6610 Welbourne Lane","","Crozet","VA","22932","True","2023-03-21 00:00:00","226.79","","","{F2BDC9A4-6997-8608-9B45-C21BB99B3BC4}"
