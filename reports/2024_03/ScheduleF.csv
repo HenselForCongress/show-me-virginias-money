@@ -1,4 +1,6 @@
 "ScheduleFId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","PurposeOfObligation","ScheduleId","ReportUID"
+"274209","341534","939960","Charles","","Cosmato","","Virginia","506 Harvey Street","","Radford","VA","24142","True","2022-10-19 00:00:00","200.00","","","{6F046232-3F38-9C99-9049-2C34D17B7F15}"
+"274210","341534","943549","Charles","W","Cosmato","","Virginia","506 Harvey Street","","Radford","VA","24141","True","2022-10-28 00:00:00","68.00","Food for meet and greet","","{6F046232-3F38-9C99-9049-2C34D17B7F15}"
 "306833","396190","972254","Sandra","J","Harrington","","VA","305 Happy Creek","","Locust Grove","VA","22508","True","2023-03-08 00:00:00","750.00","","","{0658D183-7F53-C58E-CC0E-5380B1FE22AF}"
 "306838","396194","972254","Sandra","J","Harrington","","VA","305 Happy Creek","","Locust Grove","VA","22508","True","2023-03-08 00:00:00","750.00","","","{F6E84681-73B1-4C4A-0C5D-89FDE6992645}"
 "306839","396194","1004999","Molly","","Chapman","","VA","343 Birchside Circle","","Locust Grove","VA","22508","True","2023-05-13 00:00:00","31.49","","","{F6E84681-73B1-4C4A-0C5D-89FDE6992645}"
@@ -88,5 +90,3 @@
 "307019","396594","","","","Jay Leftwich","","","308 Cedar Lakes Drive","","Chesapeake","VA","23322","False","2013-11-08 00:00:00","200.00","","","{3ACA5FE5-50FC-EFC5-6A3E-BBFC38982618}"
 "307020","396595","","","","Jay Leftwich","","","308 Cedar Lakes Drive","","Chesapeake","VA","23322","False","2013-11-08 00:00:00","200.00","","","{3868D821-D208-1D58-D947-278D8DD6A02B}"
 "307022","396597","","","","Jay Leftwich","","","308 Cedar Lakes Drive","","Chesapeake","VA","23322","False","2013-11-08 00:00:00","200.00","","","{A5654726-67E5-B3A9-FEAA-1E8E5E707A78}"
-"274209","341534","939960","Charles","","Cosmato","","Virginia","506 Harvey Street","","Radford","VA","24142","True","2022-10-19 00:00:00","200.00","","","{6F046232-3F38-9C99-9049-2C34D17B7F15}"
-"274210","341534","943549","Charles","W","Cosmato","","Virginia","506 Harvey Street","","Radford","VA","24141","True","2022-10-28 00:00:00","68.00","Food for meet and greet","","{6F046232-3F38-9C99-9049-2C34D17B7F15}"
