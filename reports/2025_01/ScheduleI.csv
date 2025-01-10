@@ -1,1 +1,2 @@
 "ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"427684","","4047","1075603","Joshua","","Evans","","","355 Phipps Cir","","Clintwood","VA","24228","True","01/09/2025","15.41","Josh Evans","Refunded Campaign Contributions","{3A8F7556-7FC0-FF05-10C8-1172133DBD91}"
