@@ -1,1 +1,2 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"432495","1085092","","","Lexi Reese for Senate","","","P.O. Box 620780","","Woodside","CA","94062","False","01/25/2024","100.00","85449","Refund of Campaign Contribution from "Lexi Reese for Senate"","","{B369EC2C-7469-51E3-9032-939DC057F836}"
