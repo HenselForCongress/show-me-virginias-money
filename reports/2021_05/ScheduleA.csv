@@ -1,5 +1,4 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","NameOfEmployer","OccupationOrTypeOfBusiness","PrimaryCityAndStateOfEmploymentOrBusiness","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","TotalToDate","ScheduleAId","ScheduleId","ReportUID"
-"236920","775266","","","Patricia King Dow Trust","","","","retired","","5 Appaloosa Drive","","Spotsylvania","VA","22551","False","02/01/2021","505.00","505.00","5853139","","{6B2CCFB9-6307-1B4F-6DBA-D8DAE0A3DD52}"
 "238893","780903","James","","Shelton","","","Not Employed","Not Employed","Not Employed","20616 Top Ridge Dr","","Boyds","MD","20841","True","03/26/2021","1000.00","1000.00","5906140","","{55FCA362-E417-981E-B46A-13BB738C1AC6}"
 "238907","728817","Lynne","J","Balderson","Ms","","","Retired","","102 Crabbe Lane","","Heathsville","VA","22473","True","07/08/2020","150.00","150.00","5906364","","{9CA0075C-3638-CD4C-9904-273F39635423}"
 "238907","728823","Keith","","Harris","Mr","","Self","Farmer","Heathsville Va","506 Mantua Rd","","Heathsville","VA","22473","True","08/15/2020","200.00","200.00","5906365","","{9CA0075C-3638-CD4C-9904-273F39635423}"
@@ -5131,3 +5130,4 @@
 "242513","546873","Norbert","","Smith","Mr.","","Retired","Retired","Williamsburg, VA","227 River's Edge","","Williamsburg","VA","23185","True","05/10/2021","1000.00","1000.00","5977419","","{F1AF79A0-D999-04A0-D037-76A10D9EA602}"
 "242513","546879","James","","Dollar","Mr.","","Self","Doctor of Dental Surgery","Newport News, VA","201 Granville Drive","","Newport News","VA","23606","True","05/26/2021","250.00","450.00","5977420","","{F1AF79A0-D999-04A0-D037-76A10D9EA602}"
 "242513","546885","Paula","","Sumrall","Mrs.","","Retired","Retired","Spanish Fort, AL","7515 Blakeley Ridge Drive","","Spanish Fort","AL","36527","True","05/15/2021","100.00","250.00","5977421","","{F1AF79A0-D999-04A0-D037-76A10D9EA602}"
+"236920","775266","","","Patricia King Dow Trust","","","","retired","","5 Appaloosa Drive","","Spotsylvania","VA","22551","False","02/01/2021","505.00","505.00","5853139","","{6B2CCFB9-6307-1B4F-6DBA-D8DAE0A3DD52}"
