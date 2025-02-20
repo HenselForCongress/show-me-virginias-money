@@ -1,1 +1,2 @@
 "ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"432853","","4084","1199127","","","Rockbridge Area Health Center","","","25 Northridge Lane","","Lexington","VA","24450","False","01/16/2025","354.47","GS Funkhouser","Closed account: Surplus donated to RAHC, non-profit Health Center","{23F1F3B9-C89C-B61D-0033-61837AA6A648}"
