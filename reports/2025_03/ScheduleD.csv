@@ -1,1 +1,3 @@
 "ScheduleDId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","ItemOrService","ScheduleId","ReportUID"
+"5113577","433126","1199714","","","Whittle for Delegate","","","749 Piney Forest Rd","Unit 190","Danville","VA","24540","False","02/27/2025","10319.00","M Whittle","Contribution","","{66D2D1A0-B654-F268-D8AC-78ED91D8D745}"
+"5113578","433126","1199773","","","Harris Harvey Neal & Co, LLP","","","2309 Riverside Drive","P.O. Box 3424","Danville","VA","24543","False","02/01/2025","53.00","M Whittle","Tax preparation","","{66D2D1A0-B654-F268-D8AC-78ED91D8D745}"
