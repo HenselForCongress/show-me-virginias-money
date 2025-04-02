@@ -1,0 +1,6 @@
+"ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"433998","6838","","","Bank of America","","","PO Box 25118","","Tampa","FL","33622","False","01/31/2025",".05","85720","interest","","{F03FC105-D701-4F2D-6A43-473E55F833B0}"
+"433998","6838","","","Bank of America","","","PO Box 25118","","Tampa","FL","33622","False","02/28/2025",".05","85721","Interest","","{F03FC105-D701-4F2D-6A43-473E55F833B0}"
+"433998","6838","","","Bank of America","","","PO Box 25118","","Tampa","FL","33622","False","03/30/2025",".05","85722","Interest","","{F03FC105-D701-4F2D-6A43-473E55F833B0}"
+"434059","1201384","","","DuPont Community Credit Union","","","315 Lee Highway","","Verona","VA","24482","False","02/28/2025",".01","85725","Interest","","{619E863A-9AFA-AB03-10BC-5AE3B0C6FEC7}"
+"434059","1201384","","","DuPont Community Credit Union","","","315 Lee Highway","","Verona","VA","24482","False","03/31/2025",".01","85726","Interest","","{619E863A-9AFA-AB03-10BC-5AE3B0C6FEC7}"
