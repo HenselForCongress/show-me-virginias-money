@@ -1,4 +1,5 @@
 "ScheduleFId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","PurposeOfObligation","ScheduleId","ReportUID"
+"273456","340478","1004598","Jerry","Lee","McMillian","Mr","","10605 Judicial Drive","B-3","Fairfax","VA","22030","True","2023-06-02 00:00:00","948.69","","","{BD184B0C-164C-A36F-70EF-26B3B5327575}"
 "318330","412285","","Jesse","","O'Connell","","","311 Hume Ave","","Alexandria","VA","22301-1018","True","2024-05-22 00:00:00","10000.00","Loan","","{69156A42-EE03-16DD-28F6-25095E59FA1C}"
 "318331","412287","509064","Jonathan","M.","Young","Mr.","","8511 Waxford Road","","Richmond","VA","23235","True","2018-07-27 00:00:00","60.00","","","{A5910845-6DA3-B600-AC55-A0896337A3CF}"
 "318332","412287","509162","Jonathan","M.","Young","Mr.","","8511 Waxford Road","","Richmond","VA","23235","True","2016-05-18 00:00:00","2000.00","","","{A5910845-6DA3-B600-AC55-A0896337A3CF}"
@@ -887,4 +888,3 @@
 "320011","415095","871815","Philip","Michael","Schoenfeld","Mr.","","702 Redgate Ave","Apt 4","Norfolk","VA","23507","True","2021-09-29 00:00:00","2100.00","","","{4A8B7DC8-048D-BF96-4B14-720A658A8531}"
 "320018","415147","1143381","Stahler","A","Daniel","","Virginia","201 Marshwood Ct","","Chesapeake","VA","23322","True","2024-05-15 00:00:00","1000.00","","","{5ADDB79B-C0DF-F7C6-88D2-71A1801C422A}"
 "320067","415550","1170509","MICHAEL","","LLOYD","","","651 Nathaniel Chase Lane","","Herndon","VA","20170","True","2024-08-31 00:00:00","1677.03","","","{4D7752A6-AAFA-D7BC-05A1-4B0C9EC60FAD}"
-"273456","340478","1004598","Jerry","Lee","McMillian","Mr","","10605 Judicial Drive","B-3","Fairfax","VA","22030","True","2023-06-02 00:00:00","948.69","","","{BD184B0C-164C-A36F-70EF-26B3B5327575}"
