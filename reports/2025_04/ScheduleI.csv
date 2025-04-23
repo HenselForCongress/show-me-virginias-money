@@ -1,2 +1,3 @@
 "ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
 "434010","","4089","782923","Jonathan","Alexander","Gerlach","Mr","","809 Charlotte Street","","Fredericksburg","VA","22401","True","03/31/2025","297.36","Jon Gerlach","Surplus funds paid out.","{AF023A33-75E3-7D87-7DF2-27C765ECF86A}"
+"437411","","4096","1205490","","","Evans for Supervisor","","","754 Warrenton Rd","","Fredericksburg","VA","22405","False","04/14/2025","2390.60","Kecia Evans","Funds","{0472107A-91B7-CBF2-998D-0F31A9C20787}"
