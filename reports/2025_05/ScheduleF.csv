@@ -1,0 +1,2 @@
+"ScheduleFId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","PurposeOfObligation","ScheduleId","ReportUID"
+"336785","437659","1207361","Mary","Liz Stith","Howard","","","608 South Park Drive","","Petersburg","VA","23805","True","2025-03-25 00:00:00","2200.00","","","{C1D87CE1-5BC7-1D6F-1005-E494FEE779CD}"
