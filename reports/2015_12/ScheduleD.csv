@@ -1,4 +1,5 @@
 "ScheduleDId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","ItemOrService","ScheduleId","ReportUID"
+"1106312","71321","248145","","","OMG National (Votes Unlimited)","","","11440 W. Sample Road","","Coral Springs","FL","33065","False","06/02/2015","382.88","WF Neely","Campaign signs","","{F9FE8C56-5AE4-C4A2-8D37-84D847F72B94}"
 "1192210","80250","238470","","","R & S Graphics, Inc.","","","901A East Fincastle Turnpike","","Tazewell","VA","24651","False","07/06/2015","190.11","Tammy Allison","T-shirts and caps","","{A01A4771-A9F4-E72D-8F0C-14687F39A41E}"
 "1192211","80250","238470","","","R & S Graphics, Inc.","","","901A East Fincastle Turnpike","","Tazewell","VA","24651","False","07/14/2015","236.77","Tammy Allison","Tee shirts, caps and lettering","","{A01A4771-A9F4-E72D-8F0C-14687F39A41E}"
 "1192212","80250","238470","","","R & S Graphics, Inc.","","","901A East Fincastle Turnpike","","Tazewell","VA","24651","False","07/29/2015","379.08","Tammy Allison","Football schedules (1,000)","","{A01A4771-A9F4-E72D-8F0C-14687F39A41E}"
@@ -11347,4 +11348,3 @@ not paid from previous month's stmt.","","{B880EC37-845D-6A51-A4CA-2207C2E9B3C0}
 "1244595","84790","","","","Google","","","1600 Amphitheatre Pkwy","","Mountain View","CA","94043-1351","False","11/13/2015","58.53","Deborah Repp","Advertising","","{BE0150F6-C6AC-9BD0-F33F-30A49E688919}"
 "1244596","84790","","","","Wells Fargo Bank","","","10190 Staples Mill Rd","","Glen Allen","VA","23060-3216","False","11/13/2015","2.00","Deborah Repp","Bank Fees","","{BE0150F6-C6AC-9BD0-F33F-30A49E688919}"
 "1244597","84790","","","","The Sexton Group","","","321 N Clark St","Ste 500","Chicago","IL","60654-4769","False","11/23/2015","665.50","Debbie Repp","Phone vendor","","{BE0150F6-C6AC-9BD0-F33F-30A49E688919}"
-"1106312","71321","248145","","","OMG National (Votes Unlimited)","","","11440 W. Sample Road","","Coral Springs","FL","33065","False","06/02/2015","382.88","WF Neely","Campaign signs","","{F9FE8C56-5AE4-C4A2-8D37-84D847F72B94}"

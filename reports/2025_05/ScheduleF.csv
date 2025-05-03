@@ -1,2 +1,4 @@
 "ScheduleFId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","PurposeOfObligation","ScheduleId","ReportUID"
 "336785","437659","1207361","Mary","Liz Stith","Howard","","","608 South Park Drive","","Petersburg","VA","23805","True","2025-03-25 00:00:00","2200.00","","","{C1D87CE1-5BC7-1D6F-1005-E494FEE779CD}"
+"336792","437700","1000253","Debra","Jean","Davis","Mrs.","Virginia","5700 Wards Rd.","","Hurt","VA","24563","True","2023-05-23 00:00:00","87.56","","","{17F5EF83-DAC0-CC95-1EF3-1FE19E466AB8}"
+"336793","437700","1000253","Debra","Jean","Davis","Mrs.","Virginia","5700 Wards Rd.","","Hurt","VA","24563","True","2023-05-09 00:00:00","63.78","","","{17F5EF83-DAC0-CC95-1EF3-1FE19E466AB8}"
