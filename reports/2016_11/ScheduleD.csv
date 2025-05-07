@@ -1,5 +1,4 @@
 "ScheduleDId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","ItemOrService","ScheduleId","ReportUID"
-"1445998","99336","305772","","","GoDaddy.com, LLC","","","14455 N Hayden Rd","Suite 219","Scottsdale","AZ","85260","False","07/05/2016","7.99","Ken Henson","Web hosting","","{45B0208A-A690-5347-5CEF-DAFC33B3D591}"
 "1484076","102287","335343","","","Timmons Consulting Group","","","929 West Clay St","","Richmond","VA","23220","False","10/25/2016","3080.00","Nadine D. Marsh-Carter","Sorting/Postage/Delivery Services
 Printing  for bulk mailer","","{13235BC2-8F3B-A9C4-6B1B-DC576AF5BE37}"
 "1484077","102287","335357","Hathaway","","Caitlin","","","2920 W Broad St","100","Richmond","VA","23230","True","10/24/2016","350.00","Nadine D. Marsh-Carter","Graphic Design Services for campaign flyer and postcard","","{13235BC2-8F3B-A9C4-6B1B-DC576AF5BE37}"
@@ -813,3 +812,4 @@ Printing  for bulk mailer","","{13235BC2-8F3B-A9C4-6B1B-DC576AF5BE37}"
 "1495753","102780","336997","","","Whitbeck for Senate","","","PO Box 447","","Leesburg","VA","20176","False","06/30/2016","36.70","John Whitbeck","math adjustment with explanation","","{4C94486E-D654-93D5-8797-186C12951E4D}"
 "1495774","102795","96852","","","FIREPAC Local 2068","","","10500 Sager Avenue","Suite A","Fairfax","VA","22030","False","11/28/2016","9617.39","Edward Kelly","Contribution","","{07D7EFCB-7C0C-8DBB-EA7F-8F815E96ADD4}"
 "1496400","102836","337233","Friends of","","Carey Adams","","","510 Wellshire Place","","Chester","VA","23836","True","10/25/2016","97.02","Richard A. Cordle","Contribution","","{EE11C87B-CECA-B396-8298-09A1414C144C}"
+"1445998","99336","305772","","","GoDaddy.com, LLC","","","14455 N Hayden Rd","Suite 219","Scottsdale","AZ","85260","False","07/05/2016","7.99","Ken Henson","Web hosting","","{45B0208A-A690-5347-5CEF-DAFC33B3D591}"
