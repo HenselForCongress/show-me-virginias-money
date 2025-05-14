@@ -1,3 +1,4 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
 "437664","781925","","","Alex Times LLC","","","110 S. Pitt Street","","Alexandria","VA","22314","False","07/17/2021","37.93","86530","Refund from Alexandria Times for overpayment for ads.","","{6631266E-F7DA-E11E-1FF4-D3C0687B11E7}"
 "437673","1085092","","","Lexi Reese for Senate","","","P.O. Box 620780","","Woodside","CA","94062","False","01/25/2024","100.00","86531","Refund of Campaign Contribution from "Lexi Reese for Senate"","","{B369EC2C-7469-51E3-9032-939DC057F836}"
+"437968","890325","","","Carter Bank & Trust","","","320 College Dr","","Martinsville","VA","24112","False","10/30/2021",".01","86568","Credit Interest","","{21DDD735-0D29-043A-7386-65406A3BD87F}"
