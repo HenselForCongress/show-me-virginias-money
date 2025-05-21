@@ -1,5 +1,4 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","NameOfEmployer","OccupationOrTypeOfBusiness","PrimaryCityAndStateOfEmploymentOrBusiness","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","TotalToDate","ScheduleAId","ScheduleId","ReportUID"
-"38259","170009","Dora","","Ottofaro","Mrs.","","","","","63 Wheatland Drive","","Hampton","","23666","True","03/28/2014","1000.00",".00","937610","","{D2424D27-E8BA-95AE-7867-B1B38F752D7D}"
 "40060","164179","John","","Goodman","Mr.","Jr","Self","Economist","Arlington VA","210 North Jackson Street","","Arlington","VA","22201","True","02/21/2014","100.00","400.00","982063","","{DFEDB1A7-C320-28F1-57D7-91C520A176C5}"
 "40060","164179","John","","Goodman","Mr.","Jr","Self","Economist","Arlington VA","210 North Jackson Street","","Arlington","VA","22201","True","03/11/2014","100.00","500.00","982064","","{DFEDB1A7-C320-28F1-57D7-91C520A176C5}"
 "40060","164209","Benta","","Sims","Ms","","Self","LPC","Falls Church VA","1801 N Jefferson St","","Arlington","VA","22206","True","03/12/2014","500.00","1000.00","982065","","{DFEDB1A7-C320-28F1-57D7-91C520A176C5}"
@@ -652,3 +651,4 @@
 "40352","177858","Billy","","Almond","","","WPL Site Design","Landscape Architect","Virginia Beach, VA","209 70th Street","","Virginia Beach","VA","23451","True","05/20/2014","250.00","250.00","985529","","{A6D41387-352A-C158-0DC3-AB1851B92F4C}"
 "40352","177860","Thomas","","Broyles","","","Kaufman & Canoles","Attorney","Virginia Beach, VA","PO Box 626","","Virginia Beach","VA","23451","True","05/27/2014","250.00","250.00","985530","","{A6D41387-352A-C158-0DC3-AB1851B92F4C}"
 "40352","177861","William","W.","Harrison","","Jr.","Williams and Mullen","Attorney","","207 54th Street","","Virginia Beach","VA","23451","True","05/27/2014","200.00","200.00","985531","","{A6D41387-352A-C158-0DC3-AB1851B92F4C}"
+"38259","170009","Dora","","Ottofaro","Mrs.","","","","","63 Wheatland Drive","","Hampton","","23666","True","03/28/2014","1000.00",".00","937610","","{D2424D27-E8BA-95AE-7867-B1B38F752D7D}"
