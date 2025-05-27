@@ -1,1 +1,2 @@
 "ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"438447","","4097","1209727","","","Rives for Arlington School Board 2025","","","4826 30th St South, Arlington VA 22206","","Arlington","VA","22206","False","05/17/2025","4783.34","James Vell Rives","Surplus transfer to 2025 campaign","{35E226C3-5730-CD6F-84A3-F9E0F06AF439}"
