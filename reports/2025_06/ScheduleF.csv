@@ -1,0 +1,6 @@
+"ScheduleFId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","PurposeOfObligation","ScheduleId","ReportUID"
+"337225","439192","840933","Cheryl","A.","Facciani","","","5836 OLD LOCKE CT","suite 1770","Roanoke","VA","24018","True","2021-07-23 00:00:00","500.00","","","{001A4FB1-02C5-ADBA-292A-5EF6803710AA}"
+"337226","439192","857136","Cheryl","A.","Facciani","","VA","5836 Old Locke Court","","Roanoke","VA","24018","True","2021-07-25 00:00:00","1958.42","","","{001A4FB1-02C5-ADBA-292A-5EF6803710AA}"
+"337227","439193","897342","Taylor","","Keeney","","","9 Dahlgren Road","","Goochland","VA","23238","True","2022-02-26 00:00:00","10.17","Reimbursement for domain name","","{F6DAEFAF-288C-944C-E977-FFA12AFBE830}"
+"337228","439193","897342","Taylor","","Keeney","","","9 Dahlgren Road","","Goochland","VA","23238","True","2022-03-17 00:00:00","338.00","Reimbursement for mail account purchase","","{F6DAEFAF-288C-944C-E977-FFA12AFBE830}"
+"337231","439210","1199053","Andrew","","Figueroa","","","336 Gracie Rd","","Chesapeake","VA","23325","True","2025-02-17 00:00:00","219.00","","","{9A2EB470-9401-3526-DABD-06DFF887E29C}"

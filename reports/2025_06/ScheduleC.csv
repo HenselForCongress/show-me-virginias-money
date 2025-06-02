@@ -1,0 +1,3 @@
+"ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"439179","54858","","","Wells Fargo Bank NA","","","PO Box 6995","","Portland","OR","97228","False","04/30/2025",".05","86770","Interest","","{8AEAD1B5-A0FD-245B-DC36-9F621746B3CB}"
+"439269","","","","Amalgamated Bank","","","1825 K Street NW","","Washington","DC","20006","False","04/30/2025","2231.61","86772","Interest","","{95025138-FE0B-FD5D-96C6-FA8B9306F98A}"
