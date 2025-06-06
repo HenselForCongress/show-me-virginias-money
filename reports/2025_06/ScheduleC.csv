@@ -1,4 +1,5 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"438246","1195422","","","Bill.com","","","6220 America Center Drive","","San Jose","CA","95002","False","10/29/2024",".74","86629","Account Authorization","","{405EC8CF-AB51-91E9-6ACF-25EAB3789AB3}"
 "438873","1099561","","","Surovell for State Senate","","","PO Box 289","","Mount Vernon","VA","22121","False","04/10/2025","25000.00","86735","uncashed 12/18/2024 contribution/voided check","","{5159A61B-3C77-89F5-D03C-1B0C2E679B70}"
 "439179","54858","","","Wells Fargo Bank NA","","","PO Box 6995","","Portland","OR","97228","False","04/30/2025",".05","86770","Interest","","{8AEAD1B5-A0FD-245B-DC36-9F621746B3CB}"
 "439269","","","","Amalgamated Bank","","","1825 K Street NW","","Washington","DC","20006","False","04/30/2025","2231.61","86772","Interest","","{95025138-FE0B-FD5D-96C6-FA8B9306F98A}"
@@ -55,3 +56,4 @@
 "439793","1176305","","","Towne Bank","","","5216 Monticello Ave.","","Williamsburg","VA","23188","False","04/24/2025",".19","86882","Interest from Bank","","{7F12ADFC-CBB2-2983-8B16-AE1AF8CA6A95}"
 "439801","1149431","","","Atlantic Union Bank","","","4300 Cox Rd","","Glen Allen","VA","23060","False","04/30/2025","1.94","86883","Interest Earned","","{F05D1E19-FA7F-3B97-3063-A05698900399}"
 "439937","1202963","","","Atlantic Union Bank","","","231 Southgate Shopping Ctr","","Culpeper","VA","22701","False","05/23/2025","4.00","86898","Bank Fee Refund","","{2D8570BA-FA07-813E-81C1-9CAA301716CD}"
+"440161","1185226","","","Bill.com","","","6220 America Center Drive","Suite 100","San Jose","CA","95002","False","10/28/2024",".22","86931","Account Verification","","{B2034FA9-9A6F-4F6F-A7E6-B7F26757F43C}"
