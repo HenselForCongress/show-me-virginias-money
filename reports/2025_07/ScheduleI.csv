@@ -1,1 +1,2 @@
 "ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"444368","","4120","1218797","Stephen","","Kent","","","9168 Kershaw Ct","","Manassas","VA","20110","True","05/29/2025","11.53","Stephen D Kent","Surplus","{35313AC6-854C-FB12-A381-44821DEAA11E}"
