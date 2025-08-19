@@ -1,4 +1,6 @@
 "ScheduleDId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","ItemOrService","ScheduleId","ReportUID"
+"5287393","449452","1221284","","","Lipscomb for Leadership","","","202 Blaine Street","B","Danville","VA","24541","False","05/19/2025","250.00","Pam Garner","Campaign Donation","","{6A9EC653-028C-BEBD-9079-D86C6A84939B}"
+"5287394","449452","1221288","","","Elaine Walters","","","P O Box 46","","Hustle","VA","22476","False","06/18/2025","150.00","Pam Garner","Campaign Donation","","{6A9EC653-028C-BEBD-9079-D86C6A84939B}"
 "5290321","449855","1221721","","","ActBlue","","","PO Box 441146","","Somerville","MA","02144","False","06/30/2025","1.98","Jena Crisler","ActBlue Service Fee","","{CC189383-F17F-E4A0-9C85-1BF6DAEE8966}"
 "5290322","449855","1221724","","","ActBlue","","","PO Box 441146","","Somerville","VA","02144","False","06/29/2025","48.21","Jena Crisler","ActBlue Service Fee","","{CC189383-F17F-E4A0-9C85-1BF6DAEE8966}"
 "5290323","449855","1221725","","","ActBlue","","","PO Box 441146","","Somerville","VA","02144","False","06/22/2025","31.61","Jena Crisler","ActBlue Service Fee","","{CC189383-F17F-E4A0-9C85-1BF6DAEE8966}"
