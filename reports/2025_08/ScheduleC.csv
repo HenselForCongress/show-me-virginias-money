@@ -1,2 +1,4 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
 "450003","361324","","","Treasurer, City of Virginia Beach","","","Municipal Center, Building 1","","Virginia Beach","VA","23456","False","04/25/2025","3648.12","88629","Refund of Primary Filing Fee","","{48D9907B-122D-5047-48E5-6C85E591170C}"
+"450478","","","","Dinwiddie County Treasurer","","","PO Box 178","","Dinwiddie","VA","23841-0178","False","04/21/2025","352.80","88669","Primary Filing Fee Refund","","{3106BD42-740C-39E7-5732-B57D737C8B65}"
+"450478","","","","Paychex","","","911 Panorama Trl S","","Rochester","NY","14625-2311","False","04/21/2025","199.60","88670","Unemployment tax overpayment","","{3106BD42-740C-39E7-5732-B57D737C8B65}"
