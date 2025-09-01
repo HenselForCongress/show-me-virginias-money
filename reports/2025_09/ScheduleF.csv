@@ -1,0 +1,2 @@
+"ScheduleFId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","PurposeOfObligation","ScheduleId","ReportUID"
+"346056","450864","1220761","Eaerva","Lee","Jones","Dr","Virginia","33306 Joyners Bridge Road","","Franklin","VA","23851","True","2025-06-17 00:00:00","100.00","","","{C5C26CB0-A8AF-ABC6-BBE7-C21BF3D1DED9}"
