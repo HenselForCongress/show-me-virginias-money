@@ -1,1 +1,7 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"450887","6838","","","Bank of America","","","PO Box 25118","","Tampa","FL","33622","False","05/30/2025",".04","88752","interest","","{DB9A09D8-4BAC-F0DC-C6E4-1B3BBE9712A4}"
+"450887","6838","","","Bank of America","","","PO Box 25118","","Tampa","FL","33622","False","06/30/2025",".04","88753","Interest","","{DB9A09D8-4BAC-F0DC-C6E4-1B3BBE9712A4}"
+"450887","6838","","","Bank of America","","","PO Box 25118","","Tampa","FL","33622","False","07/31/2025",".04","88754","Interest","","{DB9A09D8-4BAC-F0DC-C6E4-1B3BBE9712A4}"
+"450887","6838","","","Bank of America","","","PO Box 25118","","Tampa","FL","33622","False","08/29/2025",".04","88755","Interest","","{DB9A09D8-4BAC-F0DC-C6E4-1B3BBE9712A4}"
+"450917","1201393","Audrey","","Clement","","","1530 North Longfellow Street","APT B","Arlington","VA","22205","True","07/26/2025","58.20","88759","Personal expenses charged to campaign debit card in error","","{3AD77CA0-8F7B-334C-D5BC-243E7AF00F40}"
+"450917","1201393","Audrey","","Clement","","","1530 North Longfellow Street","APT B","Arlington","VA","22205","True","08/26/2025","29.09","88760","Personal expenses charged to campaign debit card in error","","{3AD77CA0-8F7B-334C-D5BC-243E7AF00F40}"
