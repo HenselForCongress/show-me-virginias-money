@@ -1,1 +1,3 @@
 "ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"451301","","4158","1229710","Paul","","Amodio","","","530 Pembroke Ave","","Norfolk","VA","23507","True","08/12/2025","13.64","John Butler","Refund","{B71691F2-71DF-EC33-A950-07D5EDB03892}"
+"451358","","4160","1230710","","","Gloucester County Republican Committee","","","P.O. Box 1639","","Gloucester","VA","23061","False","08/05/2025","257.79","RaeLisa B Reid","Donation to close account","{2347A350-65CB-930C-33D3-7E9CF8005628}"
