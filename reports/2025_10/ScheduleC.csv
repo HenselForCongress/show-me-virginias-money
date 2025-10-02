@@ -1,0 +1,4 @@
+"ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"456950","368069","","","Central Virginia FCU","","","Post Office Box 1660","","Lynchburg","VA","24505","False","09/30/2025",".07","89667","interest","","{1371657E-3FC3-AB61-7185-BD3922051F45}"
+"457074","","","","Amazon","","","410 Terry Ave N","","Seattle","WA","98109-5210","False","08/18/2025","13.24","89673","Refund","","{975096B9-E314-3B77-9355-196E25C12761}"
+"457094","1219993","Community Bank","","Heritage","","","1140 West Church","","Greenville","TN","37744","True","09/30/2025","6.00","89674","Bank Interest Sept","","{09D1D0F9-57C5-B93B-D83C-9C84E4AA6E25}"
