@@ -1,1 +1,2 @@
 "ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"458817","","4170","787660","Karl","","Roulston","","","154 N. Church St","","Woodstock","VA","22664","True","09/05/2025","1989.48","Suzanne Roulston","refund unused campaign contribution surplus to close account","{4F09596F-E7F5-0721-1A3C-AFFDBB087116}"
