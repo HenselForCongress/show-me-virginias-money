@@ -1,0 +1,3 @@
+"ScheduleFId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","PurposeOfObligation","ScheduleId","ReportUID"
+"353388","467755","1270159","","","Magnolia Street Creations, LLC","","","114 Pinewheel Ct","","Stephenson","VA","22656","False","2025-09-18 00:00:00","595.73","Road Signs and Postcards","","{5BB8DDA4-0A16-17DF-DE56-06100BDD60A6}"
+"353389","467756","1270159","","","Magnolia Street Creations, LLC","","","114 Pinewheel Ct","","Stephenson","VA","22656","False","2025-09-18 00:00:00","595.73","Road Signs and Postcards","","{1C0EA30A-FD87-7BA5-20F1-53F1B2EAF096}"
