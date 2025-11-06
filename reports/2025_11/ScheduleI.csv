@@ -1,1 +1,2 @@
 "ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"468538","","4206","1202961","Jason","Frederick","McConnell","","","410 Poplar St Nw","","Norton","VA","24273","True","11/05/2025","15.66","Jason F McConnell","Refund remaining balance back to Jason F. McConnell","{A104330B-1B26-99D4-9FBD-F742D7781BFB}"
