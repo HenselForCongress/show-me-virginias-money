@@ -1,4 +1,6 @@
 "ScheduleFId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","PurposeOfObligation","ScheduleId","ReportUID"
+"353258","466598","1252147","Malcolm","","Roach","Mr.","VA","170 Fairystone Church Loop","","Stuart","VA","24171-3281","True","2025-10-09 00:00:00","3043.00","","","{F808D790-7C94-3212-2C99-8FDC108138EB}"
+"353259","466598","1234076","Malcolm","","Roach","","VA","170 Fairystone Church Loop","","Stuart","VA","24171-3281","True","2025-08-26 00:00:00","1210.00","","","{F808D790-7C94-3212-2C99-8FDC108138EB}"
 "353388","467755","1270159","","","Magnolia Street Creations, LLC","","","114 Pinewheel Ct","","Stephenson","VA","22656","False","2025-09-18 00:00:00","595.73","Road Signs and Postcards","","{5BB8DDA4-0A16-17DF-DE56-06100BDD60A6}"
 "353389","467756","1270159","","","Magnolia Street Creations, LLC","","","114 Pinewheel Ct","","Stephenson","VA","22656","False","2025-09-18 00:00:00","595.73","Road Signs and Postcards","","{1C0EA30A-FD87-7BA5-20F1-53F1B2EAF096}"
 "353396","467945","837036","","","Imagine This Co","","","5331 Distributor Dr","","Richmond","VA","23225","False","2021-08-25 00:00:00","1075.00","advertising","","{FE7A907A-512E-75CF-EF30-256A344D59E8}"
