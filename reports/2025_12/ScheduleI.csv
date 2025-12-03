@@ -1,1 +1,3 @@
 "ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"470950","","4243","1273167","David","","Mastervich","","","710 Vista Heights Dr","","Ruckersville","VA","22968","True","12/02/2025","2.00","David Mastervich","surplus refund","{175AFDAA-6877-E388-6840-32A240FD686C}"
+"471107","","4247","1273184","Kelley","Smith","Sandra","","","3505 E Bluegrass Trl","","Bland","VA","24315-4534","True","11/26/2025","100.00","Sandra Smiih Kelley","Return Contribution","{0C07BCF1-8A39-6CDA-E851-2A6A352F7DC0}"
