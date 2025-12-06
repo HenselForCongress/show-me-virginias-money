@@ -142,6 +142,8 @@
 "472667","","","","The Rose Hotel","","","17680 Colonial St","","Dumfries","VA","22026-2374","False","11/24/2025","220.00","91193","Refund","","{FD243242-5B76-B91B-6753-E3E4772091F4}"
 "472668","","","","Moxy Richmond Downtown","","","501 E Franklin St","","Richmond","VA","23219-2309","False","10/29/2025","473.26","91194","Refund","","{E3734C47-BA1C-24EC-C203-F004063DC217}"
 "472687","1238159","","","Democratic Party of Virginia","","","919 E Main Street","","Richmond","VA","23219","False","08/06/2025","454.03","91195","Duplicate Payment","","{FC7D9EA5-8A08-FAA8-26F8-3013B96A2445}"
+"472718","984277","","","SyDar of DC LLC","","","5650 3rd Street NE","","Washington","DC","20011","False","10/27/2025","306.50","91198","Vendor void invoice after payment","","{4166186D-D2DE-D1CC-F80E-6FA25D9567C9}"
+"472718","1267076","","","Reston Association","","","12001 Sunrise Valley Drive","","Reston","VA","20191","False","11/04/2025","120.00","91199","Refund Security Deposit","","{4166186D-D2DE-D1CC-F80E-6FA25D9567C9}"
 "472741","1273579","","","County of Craig","","","182 Main St","","New Castle","VA","24127","False","09/05/2025","110.00","91205","Refund of filing fee","","{DA6B7AE6-7265-4542-04A7-CE6BEB2FBA6F}"
 "472801","1214255","","","TowneBank","","","P.O Box 2818","","Norfolk","VA","23501-2818","False","10/31/2025","33.00","91210","Refund of Bank Charge for Deposit Tickets","","{DF125ED0-01C6-AE80-7BE3-0C330ED545AC}"
 "472801","1214255","","","TowneBank","","","P.O Box 2818","","Norfolk","VA","23501-2818","False","10/31/2025",".17","91211","Interest","","{DF125ED0-01C6-AE80-7BE3-0C330ED545AC}"
@@ -149,3 +151,4 @@
 "472833","1206363","","","US Bank","","","2222 E Camelback Road","","Phoenix","AZ","85016","False","10/31/2025",".08","91213","Interest","","{AE49490C-7BF8-CEA7-1CD3-3DFA36C9930B}"
 "472842","1239298","","","Amazon.com, Inc","","","P.O. Box 81226","","Seattle","WA","98108","False","11/12/2025","14.99","91214","Service canceled, refund issued","","{47084C52-832B-C75B-9C99-013148BD0777}"
 "472876","1199222","","","Atlantic Union Bank","","","10620 Iron Bridge Road","","Chester","VA","23831","False","10/31/2025",".14","91215","Bank Account Interest Earned","","{EA8D2864-F6CE-18B2-A6BB-E2AD08E97F0A}"
+"472949","1212958","","","Patrick County Board of Supervisors","","","106 Rucker Street","","Stuart","VA","24171","False","05/19/2025","352.80","91222","refund of filing fee","","{64E4C676-BAEF-8957-CEC6-BECEA7A87AF0}"
