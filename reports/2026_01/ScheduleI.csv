@@ -1,0 +1,6 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"472990","","4287","1029783","","","Honest Toms Auto Care","","","45635 Shepard Drive","","Sterling","VA","20164","False","12/01/2025","5000.00","Alex Shernoff","Returned 10/29 Donation - Surplus","{252B9EC1-DC3B-6A41-0A62-289BC913226E}"
+"472990","","4288","1272867","","","Tree of Life Ministries","","","115 East Main Street","","Purcellville","VA","20132","False","12/01/2025","61.96","Alex Shernoff","501c3 Donation - Surplus
+EIN: 46-0666182","{252B9EC1-DC3B-6A41-0A62-289BC913226E}"
+"474228","","4306","1076005","James","","Hudson","","","1873 Forest Ave","","Buena Vista","VA","24416","True","12/31/2025","120.78","Amarilis Hudson","Returning Contribution
+Check #100","{B05DE211-05CD-BB3F-2A66-58F08AECAE9C}"
