@@ -1,0 +1,3 @@
+"ScheduleFId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","PurposeOfObligation","ScheduleId","ReportUID"
+"362543","482216","1282684","Mark","H","Levine","","","805 Rivergate Pl","","Alexandria","VA","22314","True","2026-01-29 00:00:00","6934.80","","","{C0811732-5989-A402-944D-25FC7A548F49}"
+"362544","482219","1171958","Clifton","","Atkins","","Virginia","235 Sycamore avenue","","Newport News","VA","23607","True","2024-08-30 00:00:00","1000.00","","","{A9E58613-2C9D-A669-CA08-3DCA142F6A86}"
