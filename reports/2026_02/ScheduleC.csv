@@ -1,2 +1,3 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
 "482216","1282681","","","Capitol One Bank","","","500 S. Washington St.","","Alexandria","VA","22314","False","01/20/2026","46.21","92864","cash back credit card","","{C0811732-5989-A402-944D-25FC7A548F49}"
+"482553","364449","","","City of Lynchburg Treasurer","","","900 Church Street","100","Lynchburg","VA","24504","False","04/17/2025","3393.50","92886","Refund of Primary Filing Fee","","{E7FCF849-4655-932F-22DE-EFC2BAC7D9E4}"
