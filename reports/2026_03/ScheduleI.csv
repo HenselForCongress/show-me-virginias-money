@@ -1,0 +1,2 @@
+"ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"482949","","5426","1284025","","","Shop Wythe a Cop","","","245 South 4th Street","","Wytheville","VA","24382","False","02/03/2026","98.60","Cynthia McIlrath","donation to close out the campaign account","{830128FD-312E-54CD-0D21-A6E81A73DCFA}"
