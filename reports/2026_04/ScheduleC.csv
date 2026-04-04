@@ -1,4 +1,5 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"483745","1251461","","","Friends of Danny Avula","","","P.O. Box 23041","","Richmond","VA","23223","False","02/09/2026","1000.00","93026","Voided check; originally dated 10/1/25","","{36829CB1-E813-759C-3C02-4BFFA1688448}"
 "483802","957226","","","TowneBank","","","800 E Canal St","","Richmond","VA","23219","False","01/31/2026",".20","93031","interest","","{31B184B9-A801-F96D-C155-6017E528E54B}"
 "483802","957226","","","TowneBank","","","800 E Canal St","","Richmond","VA","23219","False","02/28/2026",".18","93032","interest","","{31B184B9-A801-F96D-C155-6017E528E54B}"
 "483802","957226","","","TowneBank","","","800 E Canal St","","Richmond","VA","23219","False","03/31/2026",".22","93033","interest","","{31B184B9-A801-F96D-C155-6017E528E54B}"
@@ -8,3 +9,7 @@
 "483867","6838","","","Bank of America","","","PO Box 25118","","Tampa","FL","33622","False","01/31/2026",".05","93052","Interest","","{F4ED2B30-135A-010D-355F-D8109787756F}"
 "483867","6838","","","Bank of America","","","PO Box 25118","","Tampa","FL","33622","False","02/28/2026",".05","93053","Interest","","{F4ED2B30-135A-010D-355F-D8109787756F}"
 "483867","6838","","","Bank of America","","","PO Box 25118","","Tampa","FL","33622","False","03/31/2026",".05","93054","Interest","","{F4ED2B30-135A-010D-355F-D8109787756F}"
+"483907","1286108","","","Townebank","","","P O BOX 2818","","Norfolk","VA","23501","False","03/25/2026","298.14","93064","Interest","","{7B879451-3F41-659C-8FB5-2AD3A4044FE1}"
+"483926","","","","Amalgamated Bank","","","1825 K Street NW","","Washington","DC","20006","False","01/31/2026","2029.79","93068","Interest","","{E54778C9-8E81-7327-5D6A-AA48FBE138FE}"
+"483926","","","","Amalgamated Bank","","","1825 K Street NW","","Washington","DC","20006","False","02/28/2026","1519.33","93069","Interest","","{E54778C9-8E81-7327-5D6A-AA48FBE138FE}"
+"483926","","","","Amalgamated Bank","","","1825 K Street NW","","Washington","DC","20006","False","03/31/2026","1712.98","93070","Interest","","{E54778C9-8E81-7327-5D6A-AA48FBE138FE}"
