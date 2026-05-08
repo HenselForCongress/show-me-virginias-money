@@ -1,1 +1,2 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"486730","1210682","","","Dupont Community Credit Union","","","410 N Augusta St","","Staunton","VA","24401","False","03/31/2025",".01","93789","Bank Interest","","{50B0139C-14E7-7BA2-E5DC-1016646D968B}"
