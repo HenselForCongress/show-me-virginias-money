@@ -1,2 +1,5 @@
 "ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
 "493212","","5463","1281058","","","JRHS after prom committee","","","9906 Springwood Road","","Buchanan","VA","24066","False","01/15/2026","29.83","Jennifer Wilson","Contribution to JRHS after prom","{6C41B740-3CDF-776A-4F6F-0C2DB10878C3}"
+"494435","","5472","1301098","","","Joy for Virginia","","","Po Box 321","","Moneta","VA","24121","False","07/12/2026","3.07","William Engel","Surplus funds donated to Joy for Virginia - Joy Powers Campaign Committee","{DC0D7E4F-8673-99C5-29B5-F954805A3307}"
+"494606","","5477","1130292","Soma","","Ramesh","","","1112 tway lane","","herndon","VA","20170","True","11/25/2024","60.01","Soma Ramesh","returned to Soma Ramesh","{5F8141D7-3D80-9DE3-9AAB-F792CF1E85A1}"
+"494606","","5478","1291796","Soma","","Ramesh","","","1112 Tway lane","","Herndon","VA","20170","True","11/12/2024","1052.13","Soma Ramesh","returnd back","{5F8141D7-3D80-9DE3-9AAB-F792CF1E85A1}"
