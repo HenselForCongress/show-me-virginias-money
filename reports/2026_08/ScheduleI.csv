@@ -1,1 +1,3 @@
 "ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"503394","","5525","1262850","Dustin","","Keith","","","PO Box 393","","Lebanon","VA","24266","True","08/06/2026","62.83","Dustin Keith","Returning partial contribution","{ECD52862-8E80-BBB9-F214-7F305E7EC958}"
+"503394","","5526","1309564","","","Joy for Virginia","","","PO Box 321","","Moneta","VA","24121","False","08/05/2026","70.20","Dustin Keith","Contributing surplus funds to a candidate","{ECD52862-8E80-BBB9-F214-7F305E7EC958}"
