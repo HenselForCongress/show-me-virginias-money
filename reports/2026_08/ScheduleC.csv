@@ -1,1 +1,2 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"503415","970825","","","Commonwealth of Virginia Department of Elections","","","1100 Bank Street","First Floor","Richmond","VA","23219","False","02/16/2023","760.00","96973","Refund of DOE data fee","","{6652DC4A-8AEF-548A-7CD4-DD1B480AA147}"
