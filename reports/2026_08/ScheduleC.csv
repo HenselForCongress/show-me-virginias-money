@@ -1,2 +1,6 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
 "503415","970825","","","Commonwealth of Virginia Department of Elections","","","1100 Bank Street","First Floor","Richmond","VA","23219","False","02/16/2023","760.00","96973","Refund of DOE data fee","","{6652DC4A-8AEF-548A-7CD4-DD1B480AA147}"
+"503611","1085794","","","John Marshall Bank","","","14130 Noblewood Plaza","","Woodbridge","VA","22193","False","01/30/2026","4.30","96977","bank interest","","{A58F9ED3-F3A6-000F-A536-A2CC1808446E}"
+"503611","1085794","","","John Marshall Bank","","","14130 Noblewood Plaza","","Woodbridge","VA","22193","False","02/27/2026","3.89","96978","bank interest","","{A58F9ED3-F3A6-000F-A536-A2CC1808446E}"
+"503611","1085794","","","John Marshall Bank","","","14130 Noblewood Plaza","","Woodbridge","VA","22193","False","03/31/2026","4.30","96979","bank interest","","{A58F9ED3-F3A6-000F-A536-A2CC1808446E}"
+"503618","1085794","","","John Marshall Bank","","","14130 Noblewood Plaza","","Woodbridge","VA","22193","False","04/30/2026","4.17","96982","bank interest","","{AA2D10B4-5331-865C-9B9A-479520788F29}"
