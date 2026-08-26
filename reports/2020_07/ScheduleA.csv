@@ -1,6 +1,4 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","NameOfEmployer","OccupationOrTypeOfBusiness","PrimaryCityAndStateOfEmploymentOrBusiness","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","TotalToDate","ScheduleAId","ScheduleId","ReportUID"
-"188396","530255","","","Win Virginia","","","","","","109 Van Buren St","Suite 200","Herndon","VA","20170","False","10/07/2019","1500.00",".00","5073006","","{C2434C5A-37CF-419D-8260-F29A5C5C920B}"
-"193222","667139","John","Wesley","Mills","Mr","","FBI","Electronics Engineer","Quantico, Virginia","POBox 135","","Amissville","VA","20106","True","09/13/2019","156.00","156.00","5122825","","{DC1B6538-85B4-145B-A7B9-1B140C2D6E22}"
 "208715","676576","","","ORTHO PAC","","","","Medical","Richmond, Virginia","118 North 8th Street","","Richmond","VA","23219","False","12/20/2019","500.00","500.00","5319399","","{95E9C39E-F99D-EADC-F858-CAC467D865BE}"
 "208715","676577","","","EYE PAC","","","","Medical","Richmond, Virginia","118 North 8th Street","","Richmond","VA","23219","False","12/20/2019","500.00","500.00","5319400","","{95E9C39E-F99D-EADC-F858-CAC467D865BE}"
 "208715","676585","","","Pyliaris Corp.","","","","Commercial & Industrial Designer","Richmond, Virginia","218 East Main Street","","Richmond","VA","23219","False","12/20/2019","1000.00","1000.00","5319401","","{95E9C39E-F99D-EADC-F858-CAC467D865BE}"
@@ -31450,3 +31448,5 @@
 "216623","","","","Dominion PAC","","","","Energy PAC","Richmond VA","PO Box 26646","","Richmond","VA","23261-6646","False","07/29/2020","15000.00","25000.00","5374659","","{571498AE-CF32-5A03-B410-5E1FB81E670B}"
 "216624","","","","McGuireWoods LLP","","","","Law Firm","Richmond VA","800 E Canal St","","Richmond","VA","23219-3956","False","07/29/2020","12805.95","15000.00","5374660","","{9F925F53-58A2-DA5A-116C-34CDFF91D311}"
 "216625","","","","Amazon","","","","Online Retail","Seattle WA","PO Box 80683","","Seattle","WA","98108-0683","False","07/29/2020","10000.00","10000.00","5374661","","{8282A0BD-EBC8-9297-985D-246579CDB760}"
+"188396","530255","","","Win Virginia","","","","","","109 Van Buren St","Suite 200","Herndon","VA","20170","False","10/07/2019","1500.00",".00","5073006","","{C2434C5A-37CF-419D-8260-F29A5C5C920B}"
+"193222","667139","John","Wesley","Mills","Mr","","FBI","Electronics Engineer","Quantico, Virginia","POBox 135","","Amissville","VA","20106","True","09/13/2019","156.00","156.00","5122825","","{DC1B6538-85B4-145B-A7B9-1B140C2D6E22}"
