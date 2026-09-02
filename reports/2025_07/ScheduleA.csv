@@ -1,4 +1,6 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","NameOfEmployer","OccupationOrTypeOfBusiness","PrimaryCityAndStateOfEmploymentOrBusiness","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","TotalToDate","ScheduleAId","ScheduleId","ReportUID"
+"388042","1002994","Frank","","Kilgore","","","Kilgore & Kilgore","Attorney","St. Paul","Russell Street","","St. Paul","VA","24283","True","05/09/2023","10000.00",".00","10606547","","{2A73E720-46C0-C359-1190-5021B9A6FD4B}"
+"410191","1157089","Ray","","Patel","","","R and j motel mgt","Self Employed","","308 Jane’s way","","Chesapeake","VA","23320","True","06/22/2024","250.00","250.00","10875300","","{0E00E96F-89B7-203E-F89F-653C35D7DAF0}"
 "444026","778928","Nancy","B","Muir","","","Retired","Retired","Retired","3324 Rowcross St","","Crozet","VA","22932","True","05/15/2025","19.12","109.12","11567897","","{63343C4A-92CF-62D7-B1DC-8F5EC0AF9A53}"
 "444031","1201860","","","Virginias List","","","","PAC","Alexandria, VA","PO Box 125896","","Alexandria","VA","22206","False","06/11/2025","500.00","1000.00","11567993","","{2F180A68-3AE9-7329-2380-0862822B6269}"
 "444031","1216616","","","Denbigh Food Mart","","","","NA","Newport News, VA","420 Denbigh Blvd","","Newport News","VA","23608","False","06/10/2025","1000.00","1000.00","11567994","","{2F180A68-3AE9-7329-2380-0862822B6269}"
@@ -51379,5 +51381,3 @@
 "449842","1226144","Naomi","","Aberly","","","N/A","Not Employed","N/A","32 Derne St","","Boston","MA","02114","True","06/06/2025","10000.00","10000.00","11666062","","{E9D0A3EC-DF79-BE2B-6FE6-E4D66EEE1193}"
 "449844","1215093","Bernardine","Pettus","Tucker","","","Retired","Retired","VA","960 Farmville Hwy","","Keysville","VA","23947","True","07/31/2025","4649.00",".00","11666064","","{6AB88277-4F3E-D37F-065F-7352E4B50828}"
 "449846","1226145","Russell","B","Clark","","","Retired","Retired","Keysville, VA","PO Box 150","","Keysville","VA","23947","True","07/30/2025","500.00",".00","11666066","","{EF9F43DD-6092-8F98-B25E-D3816D5B9562}"
-"388042","1002994","Frank","","Kilgore","","","Kilgore & Kilgore","Attorney","St. Paul","Russell Street","","St. Paul","VA","24283","True","05/09/2023","10000.00",".00","10606547","","{2A73E720-46C0-C359-1190-5021B9A6FD4B}"
-"410191","1157089","Ray","","Patel","","","R and j motel mgt","Self Employed","","308 Jane’s way","","Chesapeake","VA","23320","True","06/22/2024","250.00","250.00","10875300","","{0E00E96F-89B7-203E-F89F-653C35D7DAF0}"
