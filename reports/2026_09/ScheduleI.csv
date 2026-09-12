@@ -1,2 +1,3 @@
 "ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
 "504983","","5530","1313641","Excellence Foundation","","Pearls of","","","1100 N. High Street","","Franklin","VA","23851","True","09/09/2026",".93","Jessica Banks","Donation to a 501 (c) (3) non-profit organization","{04C51DF1-EC6A-ED12-0DA1-2BC07A65E5F2}"
+"505251","","5532","1314112","","","Living Legacy","","","630 West Main Street","","Luray","VA","22835","False","09/11/2026","44.53","Joseph Petralia","Surplus campaign funds","{08D1A113-1846-8F04-E662-7F2319E8A238}"
