@@ -1,1 +1,2 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
+"512943","1284575","John","D.","Moss","Mr.","","4109 Richardson Road","","Virginia Beach","VA","23455","True","10/14/2026",".20","98217","$0.20 over paid ck 144 repaid w/candidate ck # 5676","","{D5CBF749-FA45-1D8E-5787-08FAEF92354F}"

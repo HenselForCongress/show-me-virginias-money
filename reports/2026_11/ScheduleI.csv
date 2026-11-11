@@ -1,1 +1,4 @@
 "ReportId","ScheduleId","ScheduleIId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","TypeOfDisposition","ReportUID"
+"512937","","5541","1327613","","","UVA-Wise Foundation","","","1 College Ave","","Wise","VA","24293","False","09/17/2026","2370.23","Jeff Campbell","Charitable contribution","{76E2202B-130C-A4D9-FF52-03B08777BAA2}"
+"512993","","5543","1327754","Bryan","Dennis","Kimberlin","","","159 Woodland Cir","","Bristol","VA","24201","True","11/09/2026","24.30","Bryan D Kimberlin","Return to Candidate","{E68B2C41-E57B-07CF-F99E-9652B3A98194}"
+"513036","","5544","1327355","David","George","Sigler","","","307 Overhill Drive","","Lexington","VA","24450","True","11/06/2026","36.21","David G. Sigler","Surplus","{F224055B-3013-28E5-E60B-C1D5980368B3}"
