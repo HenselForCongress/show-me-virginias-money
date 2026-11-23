@@ -1,2 +1,5 @@
 "ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","ScheduleCId","ReceiptType","ScheduleId","ReportUID"
 "512943","1284575","John","D.","Moss","Mr.","","4109 Richardson Road","","Virginia Beach","VA","23455","True","10/14/2026",".20","98217","$0.20 over paid ck 144 repaid w/candidate ck # 5676","","{D5CBF749-FA45-1D8E-5787-08FAEF92354F}"
+"513413","1312946","","","First Bank","","","201 South Main Street","","Farmville","VA","23901","False","09/30/2026","3.11","98278","interest","","{0069C9A6-FE45-8A3B-BB02-6E235F6E2C2F}"
+"513416","1312946","","","First Bank","","","201 South Main Street","","Farmville","VA","23901","False","09/30/2026","3.11","98280","interest","","{0069C9A6-FE45-8A3B-BB02-6E235F6E2C2F}"
+"513419","1312946","","","First Bank","","","201 South Main Street","","Farmville","VA","23901","False","09/30/2026","3.11","98282","interest","","{0069C9A6-FE45-8A3B-BB02-6E235F6E2C2F}"

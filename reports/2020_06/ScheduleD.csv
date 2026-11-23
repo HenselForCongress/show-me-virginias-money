@@ -1,4 +1,6 @@
 "ScheduleDId","ReportId","CommitteeContactId","FirstName","MiddleName","LastOrCompanyName","Prefix","Suffix","AddressLine1","AddressLine2","City","StateCode","ZipCode","IsIndividual","TransactionDate","Amount","AuthorizingName","ItemOrService","ScheduleId","ReportUID"
+"2866473","196602","672179","","","Warren County Republican Committee","","","PO Box 2020","","Front Royal","VA","22630","False","10/21/2019","200.00","Delores","Advertisement","","{8F13D5D6-0458-9E99-6572-35B8E8079E9E}"
+"2866474","196602","672179","","","Warren County Republican Committee","","","PO Box 2020","","Front Royal","VA","22630","False","10/21/2019","50.00","Delores","donation for office","","{8F13D5D6-0458-9E99-6572-35B8E8079E9E}"
 "2979661","209113","458803","","","Old Point National Bank","","","PO Box 3392","","Hampton","VA","23663","False","05/13/2020","8.00","Malcolm Haines","Service Fee","","{68589519-15E4-AD77-6928-69D4C969D95F}"
 "2979662","209113","692305","","","Virginia Media","","","703 Mariners Row","","Newport News","VA","23606","False","05/13/2020","1427.00","Malcolm Haines","Newspaper Ad","","{68589519-15E4-AD77-6928-69D4C969D95F}"
 "2979700","209120","683554","","","Printwell, Inc","","","3407 Poplar Creek Lane","","Williamsburg","VA","23188","False","05/13/2020","1066.03","Pat Dent","EDDM Printing and Mailing","","{649F4C06-4687-47FA-ACE2-411C7A61EC2D}"
@@ -3026,5 +3028,3 @@ Lord Fairfax Soil and Water Conservation Director","","{F7E187F5-FD72-4C53-135F-
 "2989442","210805","672125","","","Been Verified","","","P.O. Box 105168","","Atlanta","GA","30348-5168","False","11/04/2019","52.44","Neil Kester","Background check","","{AC31D6C1-4A69-126E-79D6-08B1382B3B33}"
 "2989443","210805","672144","","","WHSV TV3","","","50 N Main St","","Harrisonburg","VA","22802","False","10/28/2019","5678.00","Neil Kester","Television ads","","{AC31D6C1-4A69-126E-79D6-08B1382B3B33}"
 "2989444","210806","672144","","","WHSV TV3","","","50 N Main St","","Harrisonburg","VA","22802","False","12/14/2019","72.91","Neil Kester","Advertising","","{858E1507-36B6-C101-7673-A5B38AC670AC}"
-"2866473","196602","672179","","","Warren County Republican Committee","","","PO Box 2020","","Front Royal","VA","22630","False","10/21/2019","200.00","Delores","Advertisement","","{8F13D5D6-0458-9E99-6572-35B8E8079E9E}"
-"2866474","196602","672179","","","Warren County Republican Committee","","","PO Box 2020","","Front Royal","VA","22630","False","10/21/2019","50.00","Delores","donation for office","","{8F13D5D6-0458-9E99-6572-35B8E8079E9E}"
